@@ -92,6 +92,99 @@
         }
       ],
       "final_image_name": "outputs/red_in_black_image.png"
+    },
+    "green_in_black": {
+      "background_image_path": "black_background.png",
+      "text_items": [
+        {
+          "text": "",
+          "coordinates": [
+            346,
+            90
+          ],
+          "reference_point": "bottom-left",
+          "color": "#ffbc00",
+          "font_size": 56,
+          "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf"
+        }
+      ],
+      "png_assets": [
+        {
+          "path": "my_asset1.png",
+          "coordinates": [
+            1056,
+            1004
+          ],
+          "reference_point": "center",
+          "max_width": 1500,
+          "blend_mode": "normal",
+          "fill_intensity": 1.0,
+          "color_fill": "#00ae21"
+        }
+      ],
+      "final_image_name": "outputs/green_in_black_image.png"
+    },
+    "blue_in_black": {
+      "background_image_path": "black_background.png",
+      "text_items": [
+        {
+          "text": "",
+          "coordinates": [
+            346,
+            90
+          ],
+          "reference_point": "bottom-left",
+          "color": "#ffbc00",
+          "font_size": 56,
+          "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf"
+        }
+      ],
+      "png_assets": [
+        {
+          "path": "my_asset1.png",
+          "coordinates": [
+            1056,
+            1004
+          ],
+          "reference_point": "center",
+          "max_width": 1500,
+          "blend_mode": "normal",
+          "fill_intensity": 1.0,
+          "color_fill": "#1106f8"
+        }
+      ],
+      "final_image_name": "outputs/blue_in_black_image.png"
+    },
+    "orange_in_black": {
+      "background_image_path": "black_background.png",
+      "text_items": [
+        {
+          "text": "",
+          "coordinates": [
+            346,
+            90
+          ],
+          "reference_point": "bottom-left",
+          "color": "#ffbc00",
+          "font_size": 56,
+          "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf"
+        }
+      ],
+      "png_assets": [
+        {
+          "path": "my_asset1.png",
+          "coordinates": [
+            1056,
+            1004
+          ],
+          "reference_point": "center",
+          "max_width": 1500,
+          "blend_mode": "normal",
+          "fill_intensity": 1.0,
+          "color_fill": "#00ae21"
+        }
+      ],
+      "final_image_name": "outputs/orange_in_black_image.png"
     }
   }
 }
