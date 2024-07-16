@@ -1,0 +1,35 @@
+{
+  "st_variables": {
+    "office_set_v1": {
+      "background_image_path": "office_set_v1_OG.png",
+      "text_items": [
+        {
+          "text": "",
+          "coordinates": [
+            346,
+            90
+          ],
+          "reference_point": "bottom-left",
+          "color": "#ffbc00",
+          "font_size": 56,
+          "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf"
+        }
+      ],
+      "png_assets": [
+        {
+          "path": "my_logo1.png",
+          "coordinates": [
+            1056,
+            1004
+          ],
+          "reference_point": "center",
+          "max_width": 500,
+          "blend_mode": "normal",
+          "fill_intensity": 1.0,
+          "color_fill": "#ffff00"
+        }
+      ],
+      "final_image_name": "outputs/office_set_v1.png"
+    }
+  }
+}
