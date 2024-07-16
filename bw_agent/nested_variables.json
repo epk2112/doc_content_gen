@@ -181,7 +181,7 @@
           "max_width": 1500,
           "blend_mode": "normal",
           "fill_intensity": 1.0,
-          "color_fill": "#00ae21"
+          "color_fill": "#f66606"
         }
       ],
       "final_image_name": "outputs/orange_in_black_image.png"
@@ -460,7 +460,7 @@
             "max_width": 1500,
             "blend_mode": "normal",
             "fill_intensity": 1.0,
-            "color_fill": "#00ae21"
+            "color_fill": "#f66606"
           }
         ],
         "final_image_name": "outputs/orange_in_white_image.png"
