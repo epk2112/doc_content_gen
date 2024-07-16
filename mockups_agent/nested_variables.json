@@ -111,6 +111,66 @@
           "blend_mode": "normal",
           "fill_intensity": 1.0,
           "color_fill": ""
+        },
+        {
+          "path": "my_logo1.png",
+          "coordinates": [
+            1061,
+            1323
+          ],
+          "reference_point": "center",
+          "max_width": 75,
+          "blend_mode": "normal",
+          "fill_intensity": 1.0,
+          "color_fill": ""
+        },
+        {
+          "path": "my_logo1.png",
+          "coordinates": [
+            1856,
+            1028
+          ],
+          "reference_point": "center",
+          "max_width": 80,
+          "blend_mode": "normal",
+          "fill_intensity": 1.0,
+          "color_fill": ""
+        },
+        {
+          "path": "my_logo1.png",
+          "coordinates": [
+            1456,
+            958
+          ],
+          "reference_point": "center",
+          "max_width": 65,
+          "blend_mode": "normal",
+          "fill_intensity": 1.0,
+          "color_fill": ""
+        },
+        {
+          "path": "my_logo1.png",
+          "coordinates": [
+            1720,
+            263
+          ],
+          "reference_point": "center",
+          "max_width": 75,
+          "blend_mode": "normal",
+          "fill_intensity": 1.0,
+          "color_fill": ""
+        },
+        {
+          "path": "my_logo1.png",
+          "coordinates": [
+            1060,
+            1754
+          ],
+          "reference_point": "center",
+          "max_width": 48,
+          "blend_mode": "normal",
+          "fill_intensity": 1.0,
+          "color_fill": ""
         }
       ],
       "final_image_name": "outputs/office_set_v1.png"
