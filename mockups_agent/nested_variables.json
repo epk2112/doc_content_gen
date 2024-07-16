@@ -19,14 +19,98 @@
         {
           "path": "my_logo1.png",
           "coordinates": [
-            1056,
-            1004
+            888,
+            172
           ],
           "reference_point": "center",
-          "max_width": 500,
+          "max_width": 120,
           "blend_mode": "normal",
           "fill_intensity": 1.0,
-          "color_fill": "#ffff00"
+          "color_fill": ""
+        },
+        {
+          "path": "my_logo1.png",
+          "coordinates": [
+            316,
+            1136
+          ],
+          "reference_point": "center",
+          "max_width": 170,
+          "blend_mode": "normal",
+          "fill_intensity": 1.0,
+          "color_fill": ""
+        },
+        {
+          "path": "my_logo1.png",
+          "coordinates": [
+            777,
+            697
+          ],
+          "reference_point": "center",
+          "max_width": 80,
+          "blend_mode": "normal",
+          "fill_intensity": 1.0,
+          "color_fill": ""
+        },
+        {
+          "path": "my_logo1.png",
+          "coordinates": [
+            756,
+            1320
+          ],
+          "reference_point": "center",
+          "max_width": 100,
+          "blend_mode": "normal",
+          "fill_intensity": 1.0,
+          "color_fill": ""
+        },
+        {
+          "path": "my_logo1.png",
+          "coordinates": [
+            356,
+            1639
+          ],
+          "reference_point": "center",
+          "max_width": 136,
+          "blend_mode": "normal",
+          "fill_intensity": 1.0,
+          "color_fill": ""
+        },
+        {
+          "path": "my_logo1.png",
+          "coordinates": [
+            1688,
+            1440
+          ],
+          "reference_point": "center",
+          "max_width": 65,
+          "blend_mode": "normal",
+          "fill_intensity": 1.0,
+          "color_fill": ""
+        },
+        {
+          "path": "my_logo1.png",
+          "coordinates": [
+            1797,
+            704
+          ],
+          "reference_point": "center",
+          "max_width": 95,
+          "blend_mode": "normal",
+          "fill_intensity": 1.0,
+          "color_fill": ""
+        },
+        {
+          "path": "my_logo1.png",
+          "coordinates": [
+            1161,
+            122
+          ],
+          "reference_point": "center",
+          "max_width": 75,
+          "blend_mode": "normal",
+          "fill_intensity": 1.0,
+          "color_fill": ""
         }
       ],
       "final_image_name": "outputs/office_set_v1.png"
