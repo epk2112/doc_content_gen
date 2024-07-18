@@ -1,7 +1,7 @@
 {
     "st_variables": {
         "office_set_v1": {
-            "background_image_path": "/content/stationery_set_v2_OG.png",
+            "background_image_path": "office_set_v1_template.png",
             "text_items": [
                 {
                     "text": "",
