@@ -19,6 +19,7 @@
             "png_assets": [
                 {
                     "path": "my_logo1.png",
+                    "target": "Envelope Opened",
                     "coordinates": [
                         888,
                         172
@@ -32,6 +33,7 @@
                 },
                 {
                     "path": "my_logo1.png",
+                    "target": "",
                     "coordinates": [
                         316,
                         1136
@@ -45,6 +47,7 @@
                 },
                 {
                     "path": "my_logo1.png",
+                    "target": "",
                     "coordinates": [
                         777,
                         697
@@ -192,6 +195,130 @@
                 "hue_shift": "blue",
                 "saturation_shift": 0
             }
-        }
+        },
+        "office_set_v2": {
+          "background_image_path": "office_set_v2_template.png",
+          "text_items": [
+              {
+                  "text": "",
+                  "coordinates": [
+                      346,
+                      90
+                  ],
+                  "reference_point": "bottom-left",
+                  "color": "#ffbc00",
+                  "font_size": 56,
+                  "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf",
+                  "bilinear_points": ""
+              }
+          ],
+          "png_assets": [
+              {
+                  "path": "my_logo1.png",
+                  "target": "Tshirt Short sleeve",
+                  "coordinates": [
+                      958,
+                      454
+                  ],
+                  "reference_point": "center",
+                  "max_width": 145,
+                  "blend_mode": "normal",
+                  "fill_intensity": 1.0,
+                  "color_fill": "",
+                  "bilinear_points": ""
+              },
+              {
+                  "path": "my_logo1.png",
+                  "target": "Shopping Bag",
+                  "coordinates": [
+                      1267,
+                      1309
+                  ],
+                  "reference_point": "center",
+                  "max_width": 303,
+                  "blend_mode": "normal",
+                  "fill_intensity": 1.0,
+                  "color_fill": "#ffffff",
+                  "bilinear_points": ""
+              },
+              {
+                  "path": "my_logo1.png",
+                  "target": "Tea Cup",
+                  "coordinates": [
+                      425,
+                      1450
+                  ],
+                  "reference_point": "center",
+                  "max_width": 145,
+                  "blend_mode": "normal",
+                  "fill_intensity": 1.0,
+                  "color_fill": "",
+                  "bilinear_points": ""
+              },
+              {
+                  "path": "my_logo1.png",
+                  "target": "Wall Watch",
+                  "coordinates": [
+                      1655,
+                      502
+                  ],
+                  "reference_point": "center",
+                  "max_width": 93,
+                  "blend_mode": "normal",
+                  "fill_intensity": 1.0,
+                  "color_fill": "",
+                  "bilinear_points": ""
+              },
+              {
+                  "path": "my_logo1.png",
+                  "target": "White Tag",
+                  "coordinates": [
+                      1777,
+                      1597
+                  ],
+                  "reference_point": "center",
+                  "max_width": 110,
+                  "blend_mode": "normal",
+                  "fill_intensity": 1.0,
+                  "color_fill": "",
+                  "bilinear_points": ""
+              },
+              {
+                  "path": "my_logo1.png",
+                  "target": "Baseball Cap",
+                  "coordinates": [
+                      1070,
+                      1600
+                  ],
+                  "reference_point": "center",
+                  "max_width": 160,
+                  "blend_mode": "normal",
+                  "fill_intensity": 1.0,
+                  "color_fill": "",
+                  "bilinear_points": "0 0 754 104 834 821 0 1000"
+              },
+              {
+                  "path": "my_logo1.png",
+                  "target": "ribbon",
+                  "coordinates": [
+                      1752,
+                      1021
+                  ],
+                  "reference_point": "center",
+                  "max_width": 95,
+                  "blend_mode": "normal",
+                  "fill_intensity": 1.0,
+                  "color_fill": "#ffffff",
+                  "bilinear_points": "11 169 833 8 991 833 161 991"
+              }
+              
+          ],
+          "final_image_name": "outputs/office_set_v2.png",
+          "hue_saturation": {
+              "hue_shift": "blue",
+              "saturation_shift": 0
+          }
+      }
     }
-}
+  }
+  
