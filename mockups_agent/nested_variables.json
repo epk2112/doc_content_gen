@@ -1,7 +1,7 @@
 {
     "st_variables": {
         "office_set_v1": {
-            "background_image_path": "office_set_v1_template.png",
+            "background_image_path": "/content/stationery_set_v2_OG.png",
             "text_items": [
                 {
                     "text": "",
@@ -187,7 +187,11 @@
                     "bilinear_points": ""
                 }
             ],
-            "final_image_name": "outputs/office_set_v1.png"
+            "final_image_name": "outputs/office_set_v1.png",
+            "hue_saturation": {
+                "hue_shift": "blue",
+                "saturation_shift": 0
+            }
         }
     }
 }
