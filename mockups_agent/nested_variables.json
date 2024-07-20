@@ -991,6 +991,71 @@
                     "fill_intensity": 1.0,
                     "color_fill": "#ffffff",
                     "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Cap",
+                    "coordinates": [
+                        496, 615
+                    ],
+                    "reference_point": "center",
+                    "max_width": 91,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": "93 5 997 61 926 995 9 793"
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Vshaped",
+                    "coordinates": [
+                        489, 933
+                    ],
+                    "reference_point": "center",
+                    "max_width": 178,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": "2 124 803 3 803 829 21 999"
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Gazebo",
+                    "coordinates": [
+                        1656, 1553
+                    ],
+                    "reference_point": "center",
+                    "max_width": 270,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": "2 124 803 3 803 829 21 999"
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "BackDrop",
+                    "coordinates": [
+                        1581, 745
+                    ],
+                    "reference_point": "center",
+                    "max_width": 291,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": "2 145 749 13 726 988 17 854"
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Table",
+                    "coordinates": [
+                        1081, 1730
+                    ],
+                    "reference_point": "center",
+                    "max_width": 147,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": "89 0 987 90 943 965 8 816"
                 }
             ],
             "final_image_name": "outputs/office_set_v6.png",
@@ -1119,7 +1184,72 @@
                     "fill_intensity": 1.0,
                     "color_fill": "#ffffff",
                     "bilinear_points": ""
-                }              
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Cap 1",
+                    "coordinates": [
+                        374, 228
+                    ],
+                    "reference_point": "center",
+                    "max_width": 130,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": "93 5 997 61 926 995 9 793"
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Cap 2",
+                    "coordinates": [
+                        909, 200
+                    ],
+                    "reference_point": "center",
+                    "max_width": 125,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": "272 34 993 245 709 996 2 679"
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Right Teardrop",
+                    "coordinates": [
+                        1861, 178
+                    ],
+                    "reference_point": "center",
+                    "max_width": 85,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": "286 1 994 284 712 991 2 710"
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Right Shoe",
+                    "coordinates": [
+                        374, 1263
+                    ],
+                    "reference_point": "center",
+                    "max_width": 96,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": "6 99 903 9 996 905 96 996"
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Left Shoe",
+                    "coordinates": [
+                        231, 1265
+                    ],
+                    "reference_point": "center",
+                    "max_width": 96,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": "94 8 997 99 903 998 6 905"
+                }             
             ],
             "final_image_name": "outputs/office_set_v7.png",
             "hue_saturation": {
@@ -1182,6 +1312,32 @@
                     "fill_intensity": 1.0,
                     "color_fill": "#ffffff",
                     "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Key Holder",
+                    "coordinates": [
+                        1396, 398
+                    ],
+                    "reference_point": "center",
+                    "max_width": 220,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": "3 211 787 5 996 786 214 995"
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Diary",
+                    "coordinates": [
+                        364, 1440
+                    ],
+                    "reference_point": "center",
+                    "max_width": 215,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": "203 3 997 205 797 998 2 794"
                 }
             ],
             "final_image_name": "outputs/office_set_v8.png",
@@ -1297,7 +1453,86 @@
                     "fill_intensity": 1.0,
                     "color_fill": "",
                     "bilinear_points": ""
-                }
+                },
+               {
+                    "path": "my_logo1.png",
+                    "target": "Bag Left",
+                    "coordinates": [
+                        1337, 996
+                    ],
+                    "reference_point": "center",
+                    "max_width": 180,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": "2 124 803 3 803 829 21 999"
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Bag right",
+                    "coordinates": [
+                        2168, 1565
+                    ],
+                    "reference_point": "center",
+                    "max_width": 235,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Cap Left",
+                    "coordinates": [
+                        1963, 222
+                    ],
+                    "reference_point": "center",
+                    "max_width": 135,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": "93 5 997 61 926 995 9 793"
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Cap Right",
+                    "coordinates": [
+                        2360, 569
+                    ],
+                    "reference_point": "center",
+                    "max_width": 133,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": "93 5 997 61 926 995 9 793"
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Holder Right",
+                    "coordinates": [
+                        1670, 1706
+                    ],
+                    "reference_point": "center",
+                    "max_width": 100,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": "1 170 831 1 997 833 169 996"
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Holder Left",
+                    "coordinates": [
+                        1421, 1736
+                    ],
+                    "reference_point": "center",
+                    "max_width": 100,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": "152 15 988 156 844 988 7 846"
+                } 
+                
                 
             ],
             "final_image_name": "outputs/office_set_v9.png",
