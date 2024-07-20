@@ -28,7 +28,7 @@
                     "blend_mode": "normal",
                     "fill_intensity": 1.0,
                     "color_fill": "#ffff00",
-                    "bilinear_points": "0 0 506 201 944 570 0 765"
+                    "bilinear_points": ""
                 }
             ],
             "final_image_name": "outputs/yellow_in_black_image.png"
