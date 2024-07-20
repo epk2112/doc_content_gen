@@ -870,6 +870,441 @@
                 "hue_shift": "blue",
                 "saturation_shift": 0
             }
+        },
+        "office_set_v6": {
+            "background_image_path": "office_set_v6_template.png",
+            "text_items": [
+                {
+                    "text": "",
+                    "coordinates": [
+                        346,
+                        90
+                    ],
+                    "reference_point": "bottom-left",
+                    "color": "#ffbc00",
+                    "font_size": 56,
+                    "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf",
+                    "bilinear_points": ""
+                }
+            ],
+            "png_assets": [
+                {
+                    "path": "my_logo1.png",
+                    "target": "Tshirt",
+                    "coordinates": [
+                        874, 890
+                    ],
+                    "reference_point": "center",
+                    "max_width": 170,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Tear drop 1 left",
+                    "coordinates": [
+                        226, 1310
+                    ],
+                    "reference_point": "center",
+                    "max_width": 110,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Middle teardrop",
+                    "coordinates": [
+                        441, 1305
+                    ],
+                    "reference_point": "center",
+                    "max_width": 105,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Right Teardrop",
+                    "coordinates": [
+                        669, 1310
+                    ],
+                    "reference_point": "center",
+                    "max_width": 110,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Fan",
+                    "coordinates": [
+                        854, 450
+                    ],
+                    "reference_point": "center",
+                    "max_width": 105,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Pin Tag",
+                    "coordinates": [
+                        1129, 985
+                    ],
+                    "reference_point": "center",
+                    "max_width": 96,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Baloon",
+                    "coordinates": [
+                        659, 255
+                    ],
+                    "reference_point": "center",
+                    "max_width": 165,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Umbrela",
+                    "coordinates": [
+                        1536, 305
+                    ],
+                    "reference_point": "center",
+                    "max_width": 81,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": ""
+                }
+            ],
+            "final_image_name": "outputs/office_set_v6.png",
+            "hue_saturation": {
+                "hue_shift": "blue",
+                "saturation_shift": 0
+            }
+        },
+        "office_set_v7": {
+            "background_image_path": "office_set_v7_template.png",
+            "text_items": [
+                {
+                    "text": "",
+                    "coordinates": [
+                        346,
+                        90
+                    ],
+                    "reference_point": "bottom-left",
+                    "color": "#ffbc00",
+                    "font_size": 56,
+                    "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf",
+                    "bilinear_points": ""
+                }
+            ],
+            "png_assets": [
+                {
+                    "path": "my_logo1.png",
+                    "target": " Black Tshirt",
+                    "coordinates": [
+                        1441, 1395
+                    ],
+                    "reference_point": "center",
+                    "max_width": 353,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": " Black bag",
+                    "coordinates": [
+                        749, 1765
+                    ],
+                    "reference_point": "center",
+                    "max_width": 235,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": " Black bottle",
+                    "coordinates": [
+                        199, 1753
+                    ],
+                    "reference_point": "center",
+                    "max_width": 118,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Bowl",
+                    "coordinates": [
+                        941, 808
+                    ],
+                    "reference_point": "center",
+                    "max_width": 232,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Umbrela",
+                    "coordinates": [
+                        561, 825
+                    ],
+                    "reference_point": "center",
+                    "max_width": 90,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Tear drop left",
+                    "coordinates": [
+                        1346, 163
+                    ],
+                    "reference_point": "center",
+                    "max_width": 95,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Tear drop middle",
+                    "coordinates": [
+                        1569, 163
+                    ],
+                    "reference_point": "center",
+                    "max_width": 95,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Pen",
+                    "coordinates": [
+                        249, 748
+                    ],
+                    "reference_point": "center",
+                    "max_width": 25,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": ""
+                }              
+            ],
+            "final_image_name": "outputs/office_set_v7.png",
+            "hue_saturation": {
+                "hue_shift": "red",
+                "saturation_shift": 0
+            }
+        },
+        "office_set_v8": {
+            "background_image_path": "office_set_v8_template.png",
+            "text_items": [
+                {
+                    "text": "",
+                    "coordinates": [
+                        346,
+                        90
+                    ],
+                    "reference_point": "bottom-left",
+                    "color": "#ffbc00",
+                    "font_size": 56,
+                    "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf",
+                    "bilinear_points": ""
+                }
+            ],
+            "png_assets": [
+                {
+                    "path": "my_logo1.png",
+                    "target": "Cap",
+                    "coordinates": [
+                        426, 485
+                    ],
+                    "reference_point": "center",
+                    "max_width": 226,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Bottle",
+                    "coordinates": [
+                        1011, 1080
+                    ],
+                    "reference_point": "center",
+                    "max_width": 195,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Bag",
+                    "coordinates": [
+                        1581, 1545
+                    ],
+                    "reference_point": "center",
+                    "max_width": 205,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": ""
+                }
+            ],
+            "final_image_name": "outputs/office_set_v8.png",
+            "hue_saturation": {
+                "hue_shift": "red",
+                "saturation_shift": 0
+            }
+        },
+        "office_set_v9": {
+            "background_image_path": "office_set_v9_template.png",
+            "text_items": [
+                {
+                    "text": "",
+                    "coordinates": [
+                        346,
+                        90
+                    ],
+                    "reference_point": "bottom-left",
+                    "color": "#ffbc00",
+                    "font_size": 56,
+                    "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf",
+                    "bilinear_points": ""
+                }
+            ],
+            "png_assets": [
+                {
+                    "path": "my_logo1.png",
+                    "target": "Tshirt",
+                    "coordinates": [
+                        641, 397
+                    ],
+                    "reference_point": "center",
+                    "max_width": 228,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Notebook 1",
+                    "coordinates": [
+                        503, 1629
+                    ],
+                    "reference_point": "center",
+                    "max_width": 190,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Notebook 2",
+                    "coordinates": [
+                        997, 1622
+                    ],
+                    "reference_point": "center",
+                    "max_width": 190,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Cup 1",
+                    "coordinates": [
+                        1963, 1077
+                    ],
+                    "reference_point": "center",
+                    "max_width": 107,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Cup 2",
+                    "coordinates": [
+                        1687, 1067
+                    ],
+                    "reference_point": "center",
+                    "max_width": 107,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Box",
+                    "coordinates": [
+                        2417, 1047
+                    ],
+                    "reference_point": "center",
+                    "max_width": 156,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Watch",
+                    "coordinates": [
+                        1391, 465
+                    ],
+                    "reference_point": "center",
+                    "max_width": 104,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": ""
+                }
+                
+            ],
+            "final_image_name": "outputs/office_set_v9.png",
+            "hue_saturation": {
+                "hue_shift": "blue",
+                "saturation_shift": 0
+            }
         }
     }
   }
