@@ -1540,7 +1540,199 @@
                 "hue_shift": "blue",
                 "saturation_shift": 0
             }
+        },
+        "office_set_v10": {
+            "background_image_path": "office_set_v10_template.png",
+            "text_items": [
+                {
+                    "text": "",
+                    "coordinates": [
+                        346,
+                        90
+                    ],
+                    "reference_point": "bottom-left",
+                    "color": "#ffbc00",
+                    "font_size": 56,
+                    "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf",
+                    "bilinear_points": ""
+                }
+            ],
+            "png_assets": [
+                {
+                    "path": "my_logo1.png",
+                    "target": "Long Truck Up",
+                    "coordinates": [
+                        1239, 327
+                    ],
+                    "reference_point": "center",
+                    "max_width": 315,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Left Big Van",
+                    "coordinates": [
+                        812, 1088
+                    ],
+                    "reference_point": "center",
+                    "max_width": 190,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Right Small Van",
+                    "coordinates": [
+                        2417, 1125
+                    ],
+                    "reference_point": "center",
+                    "max_width": 135,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Taxi",
+                    "coordinates": [
+                        966, 1988
+                    ],
+                    "reference_point": "center",
+                    "max_width": 158,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Van",
+                    "coordinates": [
+                        2593, 1830
+                    ],
+                    "reference_point": "center",
+                    "max_width": 213,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Big Lorry",
+                    "coordinates": [
+                        2244, 2689
+                    ],
+                    "reference_point": "center",
+                    "max_width": 360,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Bus",
+                    "coordinates": [
+                        1884, 3847
+                    ],
+                    "reference_point": "center",
+                    "max_width": 290,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": ""
+                }                                              
+                
+            ],
+            "final_image_name": "outputs/office_set_v10.png",
+            "hue_saturation": {
+                "hue_shift": "blue",
+                "saturation_shift": 0
+            }
+        },
+         "office_set_v11": {
+            "background_image_path": "office_set_v11_template.png",
+            "text_items": [
+                {
+                    "text": "",
+                    "coordinates": [
+                        346,
+                        90
+                    ],
+                    "reference_point": "bottom-left",
+                    "color": "#ffbc00",
+                    "font_size": 56,
+                    "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf",
+                    "bilinear_points": ""
+                }
+            ],
+            "png_assets": [
+                {
+                    "path": "my_logo1.png",
+                    "target": "Top Left Letterhead",
+                    "coordinates": [
+                        529, 185
+                    ],
+                    "reference_point": "center",
+                    "max_width": 102,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Top Right Letterhead",
+                    "coordinates": [
+                        1379, 190
+                    ],
+                    "reference_point": "center",
+                    "max_width": 124,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Bottom Left Letterhead",
+                    "coordinates": [
+                        541, 1255
+                    ],
+                    "reference_point": "center",
+                    "max_width": 130,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Bottom Right Letterhead",
+                    "coordinates": [
+                        1289, 1298
+                    ],
+                    "reference_point": "center",
+                    "max_width": 150,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": ""
+                }                                                            
+                
+            ],
+            "final_image_name": "outputs/office_set_v11.png",
+            "hue_saturation": {
+                "hue_shift": "blue",
+                "saturation_shift": 0
+            }
         }
     }
   }
-  
