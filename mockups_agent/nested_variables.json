@@ -1733,6 +1733,187 @@
                 "hue_shift": "blue",
                 "saturation_shift": 0
             }
+        },
+        "office_set_v12": {
+            "background_image_path": "office_set_v12_template.png",
+            "text_items": [
+                {
+                    "text": "",
+                    "coordinates": [
+                        346,
+                        90
+                    ],
+                    "reference_point": "bottom-left",
+                    "color": "#ffbc00",
+                    "font_size": 56,
+                    "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf",
+                    "bilinear_points": ""
+                }
+            ],
+            "png_assets": [
+                {
+                    "path": "my_logo1.png",
+                    "target": "Top Left Front Card",
+                    "coordinates": [
+                        286, 193
+                    ],
+                    "reference_point": "center",
+                    "max_width": 175,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Top Left Back Card",
+                    "coordinates": [
+                        651, 725
+                    ],
+                    "reference_point": "center",
+                    "max_width": 240,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Top Right Front Card",
+                    "coordinates": [
+                        1284, 610
+                    ],
+                    "reference_point": "center",
+                    "max_width": 125,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Top Right Back Card",
+                    "coordinates": [
+                        1599, 183
+                    ],
+                    "reference_point": "center",
+                    "max_width": 205,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Middle Right Front Card",
+                    "coordinates": [
+                        1311, 1223
+                    ],
+                    "reference_point": "center",
+                    "max_width": 190,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Middle Right Back Card",
+                    "coordinates": [
+                        1531, 1705
+                    ],
+                    "reference_point": "center",
+                    "max_width": 260,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Middle Left Front Card",
+                    "coordinates": [
+                        281, 1718
+                    ],
+                    "reference_point": "center",
+                    "max_width": 190,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Middle Left Back Card",
+                    "coordinates": [
+                        494, 1198
+                    ],
+                    "reference_point": "center",
+                    "max_width": 220,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Bottom Right Front Card",
+                    "coordinates": [
+                        1254, 2910
+                    ],
+                    "reference_point": "center",
+                    "max_width": 140,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Bottom Right Back Card",
+                    "coordinates": [
+                        1539, 2243
+                    ],
+                    "reference_point": "center",
+                    "max_width": 260,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Bottom Left Front Card",
+                    "coordinates": [
+                        281, 2265
+                    ],
+                    "reference_point": "center",
+                    "max_width": 180,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Bottom Left Back Card",
+                    "coordinates": [
+                        379, 2740
+                    ],
+                    "reference_point": "center",
+                    "max_width": 200,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": ""
+                }                                                            
+                
+            ],
+            "final_image_name": "outputs/office_set_v12.png",
+            "hue_saturation": {
+                "hue_shift": "blue",
+                "saturation_shift": 0
+            }
         }
     }
   }
