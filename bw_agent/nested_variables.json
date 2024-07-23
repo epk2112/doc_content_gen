@@ -594,5 +594,8 @@
             ],
             "final_image_name": "outputs/purple_in_white_image.png"
         }
-    }
+    },
+    "black_grid_output_path": "outputs/black_grid.png",
+    "white_grid_output_path": "outputs/white_grid.png",
+    "combined_grid_output_path": "outputs/combined_grid.png"
 }
