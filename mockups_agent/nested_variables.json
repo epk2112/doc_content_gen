@@ -2034,6 +2034,45 @@
                     "fill_intensity": 1.0,
                     "color_fill": "",
                     "bilinear_points": "146 5 958 23 902 996 4 850"
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Match",
+                    "coordinates": [
+                        946, 1568
+                    ],
+                    "reference_point": "center",
+                    "max_width": 71,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Flash",
+                    "coordinates": [
+                        821, 803
+                    ],
+                    "reference_point": "center",
+                    "max_width": 77,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Pen",
+                    "coordinates": [
+                        1511, 90
+                    ],
+                    "reference_point": "center",
+                    "max_width": 45,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": "146 5 958 23 902 996 4 850"
                 }                                                         
                 
             ],
@@ -2080,6 +2119,302 @@
                 "hue_shift": "blue",
                 "saturation_shift": 0
             }
-        }
+        },
+        "office_set_v16": {
+            "background_image_path": "office_set_v16_template.png",
+            "text_items": [
+                {
+                    "text": "",
+                    "coordinates": [
+                        346,
+                        90
+                    ],
+                    "reference_point": "bottom-left",
+                    "color": "#ffbc00",
+                    "font_size": 56,
+                    "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf",
+                    "bilinear_points": ""
+                }
+            ],
+            "png_assets": [
+                {
+                    "path": "my_logo1.png",
+                    "target": "Top Left",
+                    "coordinates": [
+                        311, 173
+                    ],
+                    "reference_point": "center",
+                    "max_width": 97,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Top Rigt",
+                    "coordinates": [
+                        1301, 130
+                    ],
+                    "reference_point": "center",
+                    "max_width": 97,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Bottom Left",
+                    "coordinates": [
+                        299, 1153
+                    ],
+                    "reference_point": "center",
+                    "max_width": 97,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Bottom Right",
+                    "coordinates": [
+                        1301, 1168
+                    ],
+                    "reference_point": "center",
+                    "max_width": 97,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": ""
+                }                                                          
+                
+            ],
+            "final_image_name": "outputs/office_set_v16.png",
+            "hue_saturation": {
+                "hue_shift": "blue",
+                "saturation_shift": 0
+            }
+        },
+        "office_set_v17": {
+            "background_image_path": "office_set_v17_template.png",
+            "text_items": [
+                {
+                    "text": "",
+                    "coordinates": [
+                        346,
+                        90
+                    ],
+                    "reference_point": "bottom-left",
+                    "color": "#ffbc00",
+                    "font_size": 56,
+                    "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf",
+                    "bilinear_points": ""
+                }
+            ],
+            "png_assets": [
+                {
+                    "path": "my_logo1.png",
+                    "target": "top left top",
+                    "coordinates": [
+                        339, 98
+                    ],
+                    "reference_point": "center",
+                    "max_width": 108,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": "147 25 808 23 981 605 22 608"
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "top left bottom",
+                    "coordinates": [
+                        504, 443
+                    ],
+                    "reference_point": "center",
+                    "max_width": 180,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": "127 14 867 10 988 600 18 598"
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "bottom left top",
+                    "coordinates": [
+                        371, 1318
+                    ],
+                    "reference_point": "center",
+                    "max_width": 75,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": "147 25 808 23 981 605 22 608"
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "top right top",
+                    "coordinates": [
+                        1376, 73
+                    ],
+                    "reference_point": "center",
+                    "max_width": 100,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": "127 14 867 10 988 600 18 598"
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "top right bottom",
+                    "coordinates": [
+                        1506, 408
+                    ],
+                    "reference_point": "center",
+                    "max_width": 175,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": "147 25 808 23 981 605 22 608"
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "middle left bottom",
+                    "coordinates": [
+                        494, 1078
+                    ],
+                    "reference_point": "center",
+                    "max_width": 190,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": "127 14 867 10 988 600 18 598"
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "middle right top",
+                    "coordinates": [
+                        1354, 738
+                    ],
+                    "reference_point": "center",
+                    "max_width": 143,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": "147 25 808 23 981 605 22 608"
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "middle right bottom",
+                    "coordinates": [
+                        1644, 1070
+                    ],
+                    "reference_point": "center",
+                    "max_width": 190,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": "127 14 867 10 988 600 18 598"
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "bottom right top",
+                    "coordinates": [
+                        1626, 1328
+                    ],
+                    "reference_point": "center",
+                    "max_width": 140,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": "147 25 808 23 981 605 22 608"
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "bottom right bottom",
+                    "coordinates": [
+                        1621, 1703
+                    ],
+                    "reference_point": "center",
+                    "max_width": 197,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": "127 14 867 10 988 600 18 598"
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "bottom left top",
+                    "coordinates": [
+                        371, 1318
+                    ],
+                    "reference_point": "center",
+                    "max_width": 75,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": "147 25 808 23 981 605 22 608"
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "bottom left bottom",
+                    "coordinates": [
+                        504, 1698
+                    ],
+                    "reference_point": "center",
+                    "max_width": 155,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": "127 14 867 10 988 600 18 598"
+                }                                                         
+                
+            ],
+            "final_image_name": "outputs/office_set_v17.png",
+            "hue_saturation": {
+                "hue_shift": "blue",
+                "saturation_shift": 0
+            }
+        },
+        "office_set_v18": {
+            "background_image_path": "office_set_v18_template.png",
+            "text_items": [
+                {
+                    "text": "",
+                    "coordinates": [
+                        346,
+                        90
+                    ],
+                    "reference_point": "bottom-left",
+                    "color": "#ffbc00",
+                    "font_size": 56,
+                    "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf",
+                    "bilinear_points": ""
+                }
+            ],
+            "png_assets": [
+                {
+                    "path": "my_logo1.png",
+                    "target": "Top Left",
+                    "coordinates": [
+                        246, 103
+                    ],
+                    "reference_point": "center",
+                    "max_width": 161,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": ""
+                }                                                         
+                
+            ],
+            "final_image_name": "outputs/office_set_v18.png",
+            "hue_saturation": {
+                "hue_shift": "blue",
+                "saturation_shift": 0
+            }
+        }         
     }
   }
