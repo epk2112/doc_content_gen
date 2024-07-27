@@ -1914,6 +1914,172 @@
                 "hue_shift": "blue",
                 "saturation_shift": 0
             }
+        },
+        "office_set_v13": {
+            "background_image_path": "office_set_v13_template.png",
+            "text_items": [
+                {
+                    "text": "",
+                    "coordinates": [
+                        346,
+                        90
+                    ],
+                    "reference_point": "bottom-left",
+                    "color": "#ffbc00",
+                    "font_size": 56,
+                    "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf",
+                    "bilinear_points": ""
+                }
+            ],
+            "png_assets": [
+                {
+                    "path": "my_logo1.png",
+                    "target": "Top Tablet",
+                    "coordinates": [
+                        536, 398
+                    ],
+                    "reference_point": "center",
+                    "max_width": 160,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": "3 211 787 5 996 786 214 995"
+                }                                                         
+                
+            ],
+            "final_image_name": "outputs/office_set_v13.png",
+            "hue_saturation": {
+                "hue_shift": "blue",
+                "saturation_shift": 0
+            }
+        },
+        "office_set_v14": {
+            "background_image_path": "office_set_v14_template.png",
+            "text_items": [
+                {
+                    "text": "",
+                    "coordinates": [
+                        346,
+                        90
+                    ],
+                    "reference_point": "bottom-left",
+                    "color": "#ffbc00",
+                    "font_size": 56,
+                    "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf",
+                    "bilinear_points": ""
+                }
+            ],
+            "png_assets": [
+                {
+                    "path": "my_logo1.png",
+                    "target": "Flag",
+                    "coordinates": [
+                        481, 225
+                    ],
+                    "reference_point": "center",
+                    "max_width": 256,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Bag",
+                    "coordinates": [
+                        416, 1390
+                    ],
+                    "reference_point": "center",
+                    "max_width": 472,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Tshirt",
+                    "coordinates": [
+                        1576, 1248
+                    ],
+                    "reference_point": "center",
+                    "max_width": 132,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Cup",
+                    "coordinates": [
+                        1764, 585
+                    ],
+                    "reference_point": "center",
+                    "max_width": 180,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Cap",
+                    "coordinates": [
+                        1109, 350
+                    ],
+                    "reference_point": "center",
+                    "max_width": 156,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": "146 5 958 23 902 996 4 850"
+                }                                                         
+                
+            ],
+            "final_image_name": "outputs/office_set_v14.png",
+            "hue_saturation": {
+                "hue_shift": "blue",
+                "saturation_shift": 0
+            }
+        },
+        "office_set_v15": {
+            "background_image_path": "office_set_v15_template.png",
+            "text_items": [
+                {
+                    "text": "",
+                    "coordinates": [
+                        346,
+                        90
+                    ],
+                    "reference_point": "bottom-left",
+                    "color": "#ffbc00",
+                    "font_size": 56,
+                    "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf",
+                    "bilinear_points": ""
+                }
+            ],
+            "png_assets": [
+                {
+                    "path": "my_logo1.png",
+                    "target": "Top Tablet",
+                    "coordinates": [
+                        536, 398
+                    ],
+                    "reference_point": "center",
+                    "max_width": 160,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": "4 138 863 6 992 833 132 963"
+                }                                                         
+                
+            ],
+            "final_image_name": "outputs/office_set_v15.png",
+            "hue_saturation": {
+                "hue_shift": "blue",
+                "saturation_shift": 0
+            }
         }
     }
   }
