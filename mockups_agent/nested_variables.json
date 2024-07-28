@@ -2179,17 +2179,277 @@
             "png_assets": [
                 {
                     "path": "my_logo1.png",
-                    "target": "Top Tablet",
+                    "target": "Tshirt",
                     "coordinates": [
-                        536, 398
+                        301, 158
                     ],
                     "reference_point": "center",
-                    "max_width": 160,
+                    "max_width": 70,
                     "blend_mode": "normal",
                     "fill_intensity": 1.0,
-                    "color_fill": "",
-                    "bilinear_points": "4 138 863 6 992 833 132 963"
-                }                                                         
+                    "color_fill": "#ffffff",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "bag",
+                    "coordinates": [
+                        1417, 746
+                    ],
+                    "reference_point": "center",
+                    "max_width": 105,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Flag",
+                    "coordinates": [
+                        1407, 174
+                    ],
+                    "reference_point": "center",
+                    "max_width": 85,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Large Notebook bottom",
+                    "coordinates": [
+                        1125, 776
+                    ],
+                    "reference_point": "center",
+                    "max_width": 100,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Large Notebook Top",
+                    "coordinates": [
+                        1145, 212
+                    ],
+                    "reference_point": "center",
+                    "max_width": 75,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Small Notebook",
+                    "coordinates": [
+                        877, 812
+                    ],
+                    "reference_point": "center",
+                    "max_width": 95,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Can",
+                    "coordinates": [
+                        227, 864
+                    ],
+                    "reference_point": "center",
+                    "max_width": 55,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Cup",
+                    "coordinates": [
+                        389, 864
+                    ],
+                    "reference_point": "center",
+                    "max_width": 55,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Cd",
+                    "coordinates": [
+                        571, 854
+                    ],
+                    "reference_point": "center",
+                    "max_width": 55,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Tablet",
+                    "coordinates": [
+                        689, 308
+                    ],
+                    "reference_point": "center",
+                    "max_width": 85,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Pin",
+                    "coordinates": [
+                        645, 142
+                    ],
+                    "reference_point": "center",
+                    "max_width": 40,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Cover",
+                    "coordinates": [
+                        441, 366
+                    ],
+                    "reference_point": "center",
+                    "max_width": 40,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Holder",
+                    "coordinates": [
+                        919, 586
+                    ],
+                    "reference_point": "center",
+                    "max_width": 45,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Card Back",
+                    "coordinates": [
+                        815, 604
+                    ],
+                    "reference_point": "center",
+                    "max_width": 20,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#ffffff",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Watch",
+                    "coordinates": [
+                        903, 234
+                    ],
+                    "reference_point": "center",
+                    "max_width": 60,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#000000",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Phone Front",
+                    "coordinates": [
+                        525, 362
+                    ],
+                    "reference_point": "center",
+                    "max_width": 40,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#000000",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "letter left",
+                    "coordinates": [
+                        341, 528
+                    ],
+                    "reference_point": "center",
+                    "max_width": 40,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#000000",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "letter Right",
+                    "coordinates": [
+                       581, 542
+                    ],
+                    "reference_point": "center",
+                    "max_width": 40,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#000000",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Envelope back",
+                    "coordinates": [
+                        187, 596
+                    ],
+                    "reference_point": "center",
+                    "max_width": 40,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#000000",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Envelope Front",
+                    "coordinates": [
+                        239, 676
+                    ],
+                    "reference_point": "center",
+                    "max_width": 40,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#000000",
+                    "bilinear_points": ""
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "card Front",
+                    "coordinates": [
+                        801, 650
+                    ],
+                    "reference_point": "center",
+                    "max_width": 20,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "#000000",
+                    "bilinear_points": ""
+                }                                                        
                 
             ],
             "final_image_name": "outputs/office_set_v15.png",
