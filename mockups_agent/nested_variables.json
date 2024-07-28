@@ -1943,7 +1943,85 @@
                     "blend_mode": "normal",
                     "fill_intensity": 1.0,
                     "color_fill": "",
-                    "bilinear_points": "3 211 787 5 996 786 214 995"
+                    "bilinear_points": "23 135 809 16 977 706 201 849"
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Top Laptop",
+                    "coordinates": [
+                        1436, 385
+                    ],
+                    "reference_point": "center",
+                    "max_width": 135,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": "239 4 974 239 761 973 26 759"
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Middle Tablet",
+                    "coordinates": [
+                        714, 1750
+                    ],
+                    "reference_point": "center",
+                    "max_width": 180,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": "156 178 899 29 873 815 74 974"
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Middle Laptop",
+                    "coordinates": [
+                        1389, 1758
+                    ],
+                    "reference_point": "center",
+                    "max_width": 180,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": "73 8 633 296 551 983 17 706"
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Middle Phone",
+                    "coordinates": [
+                        1509, 2008
+                    ],
+                    "reference_point": "center",
+                    "max_width": 130,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": "16 350 739 20 902 624 158 976"
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Bottom Pc",
+                    "coordinates": [
+                        336, 2630
+                    ],
+                    "reference_point": "center",
+                    "max_width": 200,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": "17 19 929 35 974 815 76 853"
+                },
+                {
+                    "path": "my_logo1.png",
+                    "target": "Bottom Tablet",
+                    "coordinates": [
+                        1094, 3005
+                    ],
+                    "reference_point": "center",
+                    "max_width": 140,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": "14 45 809 16 983 680 193 753"
                 }                                                         
                 
             ],
