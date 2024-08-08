@@ -1,0 +1,45 @@
+{
+    "st_variables": {
+        "social_grid_v1": {
+            "background_image_path": "social_grid_v1_template.png",
+            "template_name":"social_grid_v1",
+            "topic_subject": "We Sell Good Pizza",
+            "reference_text": "",
+            "text_type_label_list":"call_to_action_1,call_to_action_2,call_to_action_3,call_to_action_4,call_to_action_5,call_to_action_6",
+            "text_items": [
+                {
+                    "text": "",
+                    "coordinates": [
+                        346,
+                        90
+                    ],
+                    "reference_point": "bottom-left",
+                    "color": "#ffbc00",
+                    "font_size": 56,
+                    "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf",
+                    "bilinear_points": ""
+                }
+            ],
+            "png_assets": [
+                {
+                    "path": "hybrid_artworks_agent/text_block_images/social_grid_v1_textStamp_3.png",
+                    "target": "top left Artwork",
+                    "coordinates": [
+                        117, 282
+                    ],
+                    "reference_point": "top-left",
+                    "max_width": 330,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": ""
+                }
+            ],
+            "final_image_name": "outputs/social_grid_v1.png",
+            "hue_saturation": {
+                "hue_shift": "blue",
+                "saturation_shift": 0
+            }
+        }        
+    }
+  }
