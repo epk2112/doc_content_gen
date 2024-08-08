@@ -1,0 +1,59 @@
+{
+    "st_variables": {
+        "social_grid_v1": {
+            "background_image_path": "social_grid_v1_template.png",
+            "texts_config":{
+              "text":"Tomorrow is my Birthday",
+              "include_highlighted_phrase": true,
+              "count": 5,
+              "max_words":5
+            },
+            "options_config":{
+              "template_name":"social_grid_v1",
+              "font_path":"/content/doc_content_gen/fonts/Montserrat-Black.ttf",
+               "fontSize": "65px",
+               "fontWeight": "200",
+               "fontStyle": "normal",
+               "width":"400px",
+               "lineHeight":"1.1",
+               "textAlign": "left",
+                "color": "#e6e6e6",
+                "highlightColor":"#FFA500"
+            },
+            "text_items": [
+                {
+                    "text": "",
+                    "coordinates": [
+                        346,
+                        90
+                    ],
+                    "reference_point": "bottom-left",
+                    "color": "#ffbc00",
+                    "font_size": 56,
+                    "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf",
+                    "bilinear_points": ""
+                }
+            ],
+            "png_assets": [
+                {
+                    "path": "hybrid_artworks_agent/text_block_images/social_grid_v1_textStamp_3.png",
+                    "target": "top left Artwork",
+                    "coordinates": [
+                        117, 282
+                    ],
+                    "reference_point": "top-left",
+                    "max_width": 330,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": ""
+                }
+            ],
+            "final_image_name": "outputs/social_grid_v1.png",
+            "hue_saturation": {
+                "hue_shift": "blue",
+                "saturation_shift": 0
+            }
+        }        
+    }
+  }
