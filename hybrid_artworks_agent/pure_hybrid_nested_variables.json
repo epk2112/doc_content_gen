@@ -2,10 +2,10 @@
     "st_variables": {
         "social_grid_v1": {
             "background_image_path": "social_grid_v1_template.png",
-            "template_name":"social_grid_v1",
-            "topic_subject": "We Sell Good Pizza",
-            "reference_text": "",
-            "text_type_label_list":"call_to_action_1,call_to_action_2,call_to_action_3,call_to_action_4,call_to_action_5,call_to_action_6",
+            "template_name": "social_grid_v1",
+            "topic_subject": "We Sell Men Clothing",
+            "reference_text": "\nPOSTERS ABOUT MEDICAL CLINIC\n\n# call_to_action_1\nBest Medical Service\n\n# call_to_action_2\nGet The Medicine In Free\n\n# call_to_action_3\nDiscount 30% Off Service\n\n# call_to_action_4\nRoutine To Check-Up\n\n# call_to_action_5\nCheck-Up Medical Clinic\n\n# call_to_action_6\nNow You Get Service In Free\n",
+            "text_type_label_list": "call_to_action_1,call_to_action_2,call_to_action_3,call_to_action_4,call_to_action_5,call_to_action_6",
             "text_items": [
                 {
                     "text": "",
@@ -22,17 +22,60 @@
             ],
             "png_assets": [
                 {
-                    "path": "hybrid_artworks_agent/text_block_images/social_grid_v1_textStamp_3.png",
+                    "path": "",
                     "target": "top left Artwork",
+                    "png_type": "text_string",
                     "coordinates": [
-                        117, 282
+                        117,
+                        282
                     ],
                     "reference_point": "top-left",
                     "max_width": 330,
                     "blend_mode": "normal",
                     "fill_intensity": 1.0,
                     "color_fill": "",
-                    "bilinear_points": ""
+                    "bilinear_points": "",
+                    "text_type_label": "call_to_action_3",
+                    "options_config": {
+                        "text_id": 3,
+                        "text_value": "Discount 30% Off Shirts",
+                        "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf",
+                        "fontSize": "65px",
+                        "fontWeight": "200",
+                        "fontStyle": "normal",
+                        "width": "400px",
+                        "lineHeight": "1.1",
+                        "textAlign": "left",
+                        "color": "#e6e6e6"
+                    }
+                },
+                {
+                    "path": "",
+                    "target": "top left Artwork",
+                    "png_type": "text_string",
+                    "coordinates": [
+                        117,
+                        282
+                    ],
+                    "reference_point": "top-left",
+                    "max_width": 330,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": "",
+                    "text_type_label": "call_to_action_4",
+                    "options_config": {
+                        "text_id": 4,
+                        "text_value": "Routine To Looking Good",
+                        "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf",
+                        "fontSize": "65px",
+                        "fontWeight": "200",
+                        "fontStyle": "normal",
+                        "width": "400px",
+                        "lineHeight": "1.1",
+                        "textAlign": "left",
+                        "color": "#e6e6e6"
+                    }
                 }
             ],
             "final_image_name": "outputs/social_grid_v1.png",
@@ -40,6 +83,6 @@
                 "hue_shift": "blue",
                 "saturation_shift": 0
             }
-        }        
+        }
     }
-  }
+}
