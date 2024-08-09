@@ -3,8 +3,8 @@
         "social_grid_v1": {
             "background_image_path": "social_grid_v1_template.png",
             "template_name": "social_grid_v1",
-            "topic_subject": "We Sell Men Clothing",
-            "reference_text": "\nPOSTERS ABOUT MEDICAL CLINIC\n\n# call_to_action_1\nBest Medical Service\n\n# call_to_action_2\nGet The Medicine In Free\n\n# call_to_action_3\nDiscount 30% Off Service\n\n# call_to_action_4\nRoutine To Check-Up\n\n# call_to_action_5\nCheck-Up Medical Clinic\n\n# call_to_action_6\nNow You Get Service In Free\n",
+            "topic_subject": "We are the best Real Estate Company",
+            "reference_text": "\nPOSTERS ABOUT MEDICAL CLINIC\n\n# call_to_action_1\nBest Medical Service\n\n# call_to_action_2\nGet The Medicine In Free\n\n# call_to_action_3\nDiscount 30% Off Service\n\n# call_to_action_4\nRoutine To Check-Up\n\n# call_to_action_5\nCheck-Up Medical Clinic Today Fast\n\n# call_to_action_6\nNow You Get Service In Free\n",
             "text_type_label_list": "call_to_action_1,call_to_action_2,call_to_action_3,call_to_action_4,call_to_action_5,call_to_action_6",
             "text_items": [
                 {
@@ -61,6 +61,114 @@
                     "color_fill": "",
                     "bilinear_points": "",
                     "text_type_label": "call_to_action_2",
+                    "options_config": {
+                        "text_id": "",
+                        "text_value": "",
+                        "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf",
+                        "fontSize": "65px",
+                        "fontWeight": "200",
+                        "fontStyle": "normal",
+                        "width": "400px",
+                        "lineHeight": "1.1",
+                        "textAlign": "left",
+                        "color": "#e6e6e6"
+                    }
+                },
+                {
+                    "path": "",
+                    "target": "top center Artwork",
+                    "png_type": "text_string",
+                    "coordinates": [
+                        1558, 275
+                    ],
+                    "reference_point": "top-right",
+                    "max_width": 330,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": "",
+                    "text_type_label": "call_to_action_3",
+                    "options_config": {
+                        "text_id": "",
+                        "text_value": "",
+                        "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf",
+                        "fontSize": "65px",
+                        "fontWeight": "200",
+                        "fontStyle": "normal",
+                        "width": "400px",
+                        "lineHeight": "1.1",
+                        "textAlign": "right",
+                        "color": "#e6e6e6"
+                    }
+                },
+                {
+                    "path": "",
+                    "target": "bottom center Artwork",
+                    "png_type": "text_string",
+                    "coordinates": [
+                        923, 1510
+                    ],
+                    "reference_point": "top-left",
+                    "max_width": 445,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": "",
+                    "text_type_label": "call_to_action_4",
+                    "options_config": {
+                        "text_id": "",
+                        "text_value": "",
+                        "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf",
+                        "fontSize": "45px",
+                        "fontWeight": "200",
+                        "fontStyle": "normal",
+                        "width": "450px",
+                        "lineHeight": "1.1",
+                        "textAlign": "left",
+                        "color": "#e6e6e6"
+                    }
+                },
+                {
+                    "path": "",
+                    "target": "top right Artwork",
+                    "png_type": "text_string",
+                    "coordinates": [
+                        1739, 616
+                    ],
+                    "reference_point": "top-left",
+                    "max_width": 360,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": "",
+                    "text_type_label": "call_to_action_5",
+                    "options_config": {
+                        "text_id": "",
+                        "text_value": "",
+                        "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf",
+                        "fontSize": "44px",
+                        "fontWeight": "200",
+                        "fontStyle": "normal",
+                        "width": "400px",
+                        "lineHeight": "1.1",
+                        "textAlign": "left",
+                        "color": "#e6e6e6"
+                    }
+                },
+                {
+                    "path": "",
+                    "target": "bottom left Artwork",
+                    "png_type": "text_string",
+                    "coordinates": [
+                        1727, 1141
+                    ],
+                    "reference_point": "top-left",
+                    "max_width": 330,
+                    "blend_mode": "normal",
+                    "fill_intensity": 1.0,
+                    "color_fill": "",
+                    "bilinear_points": "",
+                    "text_type_label": "call_to_action_6",
                     "options_config": {
                         "text_id": "",
                         "text_value": "",
