@@ -10,8 +10,7 @@
                 {
                     "text": "",
                     "coordinates": [
-                        346,
-                        90
+                        346,90
                     ],
                     "reference_point": "bottom-left",
                     "color": "#ffbc00",
@@ -26,8 +25,7 @@
                     "target": "top left Artwork",
                     "png_type": "text_string",
                     "coordinates": [
-                        117,
-                        282
+                        117,282
                     ],
                     "reference_point": "top-left",
                     "max_width": 330,
@@ -35,10 +33,10 @@
                     "fill_intensity": 1.0,
                     "color_fill": "",
                     "bilinear_points": "",
-                    "text_type_label": "call_to_action_3",
+                    "text_type_label": "call_to_action_1",
                     "options_config": {
-                        "text_id": 3,
-                        "text_value": "Discount 30% Off Shirts",
+                        "text_id": "",
+                        "text_value": "",
                         "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf",
                         "fontSize": "65px",
                         "fontWeight": "200",
@@ -51,11 +49,10 @@
                 },
                 {
                     "path": "",
-                    "target": "top left Artwork",
+                    "target": "bottom left Artwork",
                     "png_type": "text_string",
                     "coordinates": [
-                        117,
-                        282
+                        117, 1169
                     ],
                     "reference_point": "top-left",
                     "max_width": 330,
@@ -63,10 +60,10 @@
                     "fill_intensity": 1.0,
                     "color_fill": "",
                     "bilinear_points": "",
-                    "text_type_label": "call_to_action_4",
+                    "text_type_label": "call_to_action_2",
                     "options_config": {
-                        "text_id": 4,
-                        "text_value": "Routine To Looking Good",
+                        "text_id": "",
+                        "text_value": "",
                         "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf",
                         "fontSize": "65px",
                         "fontWeight": "200",
