@@ -27,12 +27,8 @@
             }
         },
         "infinite_bulk_agent": {
-            "master_prompt": "Portrait images of beatiful girls",
-            "width": 512,
-            "height": 512,
-            "steps": 2,
-            "output_format": "png",
-            "output_name": "infinite_image"
+            "simple_phrase": "Donald trump talking with Putin",
+            "num_phrases": 6
         }
     }
 }
