@@ -110,7 +110,20 @@
           { "carousel_slide_2_image_alt": "Photo of laptops, computers, printers, and other office equipment for Designing and Printing"},
           { "carousel_slide_3_image_alt": "Photo of a happy employee holding a laptop in front of a computer and a projector"},
           { "carousel_slide_4_image_alt": "Photo of happy customers excited upon recieving their final design and print order"},
-          { "carousel_slide_5_image_alt": "Photo of a branded delivery car infront of Bongo graphics offices"}
+          { "carousel_slide_5_image_alt": "Photo of a branded delivery car infront of Bongo graphics offices"},
+          { "about_us_section_1_image_alt": "Photo of Graphic Designers in the keynote venue annoucing their next project"},
+          { "about_us_section_2_image_alt": "Advanced and modern equipment and machines for printing and graphic design"},
+          { "about_us_section_3_image_alt": "Room full of web servers with multiple computers and other office equipment"},
+          {"facts_section_image_alt": "isolated png image of various promotional materials for Bongo Graphics"},
+          { "portfolio_item_1_image_alt": "An office full branded with a clients logoad his theme color"},
+          { "portfolio_item_2_image_alt": "A laptop, phone and tablet showing the clients final web design"},
+          { "portfolio_item_3_image_alt": "A smartphone screen showing a webapp designed by Bongo graphics"},
+          { "portfolio_item_4_image_alt": "A table full of custom designed business cards"},
+          { "portfolio_item_5_image_alt": "A senior web developer typing on his laptop"},
+          { "portfolio_item_6_image_alt": "A smartphone screen showing clients designed projects"},
+          { "portfolio_item_7_image_alt": "A table top full of posters, flyers and calendars designed and printed by Bongo Graphics"},
+          { "portfolio_item_8_image_alt": "A delivery package designed and printed by Bongo Graphics"},
+          { "portfolio_item_9_image_alt": "A tablet screen showing the company website"}
         ],
         "text_type_label_list": [ "page_title_placeholder", "header_logo_placeholder", "navbar_item_1_placeholder", "navbar_item_2_placeholder", "navbar_item_3_placeholder", "navbar_item_4_placeholder", "navbar_item_5_placeholder", "navbar_item_6_placeholder", "navbar_dropdown_item_1_placeholder", "navbar_dropdown_item_2_placeholder", "navbar_dropdown_item_3_placeholder", "navbar_dropdown_item_4_placeholder", "navbar_item_7_placeholder", "carousel_slide_1_title_placeholder", "carousel_slide_1_description_placeholder", "carousel_slide_1_button_placeholder", "carousel_slide_2_title_placeholder", "carousel_slide_2_description_placeholder", "carousel_slide_2_button_placeholder", "carousel_slide_3_title_placeholder", "carousel_slide_3_description_placeholder", "carousel_slide_3_button_placeholder", "carousel_slide_4_title_placeholder", "carousel_slide_4_description_placeholder", "carousel_slide_4_button_placeholder", "carousel_slide_5_title_placeholder", "carousel_slide_5_description_placeholder", "carousel_slide_5_button_placeholder", "featured_service_1_title_placeholder", "featured_service_1_description_placeholder", "featured_service_2_title_placeholder", "featured_service_2_description_placeholder", "featured_service_3_title_placeholder", "featured_service_3_description_placeholder", "about_us_title_placeholder", "about_us_description_placeholder", "about_us_section_1_title_placeholder", "about_us_section_1_description_placeholder", "about_us_section_2_title_placeholder", "about_us_section_2_description_placeholder", "about_us_section_3_title_placeholder", "about_us_section_3_description_placeholder", "services_title_placeholder", "services_description_placeholder", "service_item_1_title_placeholder", "service_item_1_description_placeholder", "service_item_2_title_placeholder", "service_item_2_description_placeholder", "service_item_3_title_placeholder", "service_item_3_description_placeholder", "service_item_4_title_placeholder", "service_item_4_description_placeholder", "service_item_5_title_placeholder", "service_item_5_description_placeholder", "service_item_6_title_placeholder", "service_item_6_description_placeholder", "call_to_action_title_placeholder", "call_to_action_description_placeholder", "call_to_action_button_placeholder", "skills_section_title_placeholder", "skills_section_description_placeholder", "skill_item_1_placeholder", "skill_item_2_placeholder", "skill_item_3_placeholder", "skill_item_4_placeholder", "facts_section_title_placeholder", "facts_section_description_placeholder", "facts_item_1_placeholder", "facts_item_2_placeholder", "facts_item_3_placeholder", "facts_item_4_placeholder", "portfolio_section_title_placeholder", "portfolio_filter_1_placeholder", "portfolio_filter_2_placeholder", "portfolio_filter_3_placeholder", "portfolio_filter_4_placeholder", "portfolio_item_1_title_placeholder", "portfolio_item_1_category_placeholder", "portfolio_item_2_title_placeholder", "portfolio_item_2_category_placeholder", "portfolio_item_3_title_placeholder", "portfolio_item_3_category_placeholder", "portfolio_item_4_title_placeholder", "portfolio_item_4_category_placeholder", "portfolio_item_5_title_placeholder", "portfolio_item_5_category_placeholder", "portfolio_item_6_title_placeholder", "portfolio_item_6_category_placeholder", "portfolio_item_7_title_placeholder", "portfolio_item_7_category_placeholder", "portfolio_item_8_title_placeholder", "portfolio_item_8_category_placeholder", "portfolio_item_9_title_placeholder", "portfolio_item_9_category_placeholder", "clients_section_title_placeholder", "testimonials_section_title_placeholder", "testimonial_1_name_placeholder", "testimonial_1_title_placeholder", "testimonial_1_description_placeholder", "testimonial_2_name_placeholder", "testimonial_2_title_placeholder", "testimonial_2_description_placeholder", "testimonial_3_name_placeholder", "testimonial_3_title_placeholder", "testimonial_3_description_placeholder", "testimonial_4_name_placeholder", "testimonial_4_title_placeholder", "testimonial_4_description_placeholder", "testimonial_5_name_placeholder", "testimonial_5_title_placeholder", "testimonial_5_description_placeholder", "team_section_title_placeholder", "team_section_description_placeholder", "team_member_1_name_placeholder", "team_member_1_title_placeholder", "team_member_2_name_placeholder", "team_member_2_title_placeholder", "team_member_3_name_placeholder", "team_member_3_title_placeholder", "team_member_4_name_placeholder", "team_member_4_title_placeholder", "contact_section_title_placeholder", "contact_section_description_placeholder", "contact_address_title_placeholder", "contact_address_placeholder", "contact_phone_title_placeholder", "contact_phone_placeholder", "contact_email_title_placeholder", "contact_email_placeholder", "footer_section_1_title_placeholder", "footer_section_1_description_placeholder", "footer_section_2_title_placeholder", "footer_section_2_item_1_placeholder", "footer_section_2_item_2_placeholder", "footer_section_2_item_3_placeholder", "footer_section_2_item_4_placeholder", "footer_section_2_item_5_placeholder", "footer_section_3_title_placeholder", "footer_section_3_address_line_1_placeholder", "footer_section_3_address_line_2_placeholder", "footer_section_3_address_line_3_placeholder", "footer_section_3_phone_title_placeholder", "footer_section_3_phone_placeholder", "footer_section_3_email_title_placeholder", "footer_section_3_email_placeholder", "footer_section_4_title_placeholder", "footer_section_4_description_placeholder",
           "footer_section_4_button_placeholder",
@@ -119,7 +132,20 @@
           "carousel_slide_2_image_alt",
           "carousel_slide_3_image_alt",
           "carousel_slide_4_image_alt",
-          "carousel_slide_5_image_alt"
+          "carousel_slide_5_image_alt",
+          "about_us_section_1_image_alt",
+          "about_us_section_2_image_alt",
+          "about_us_section_3_image_alt",
+          "facts_section_image_alt",
+          "portfolio_item_1_image_alt",
+          "portfolio_item_2_image_alt",
+          "portfolio_item_3_image_alt",
+          "portfolio_item_4_image_alt",
+          "portfolio_item_5_image_alt",
+          "portfolio_item_6_image_alt",
+          "portfolio_item_7_image_alt",
+          "portfolio_item_8_image_alt",
+          "portfolio_item_9_image_alt"
         ]
       },
       "infinity_master_v1": {
