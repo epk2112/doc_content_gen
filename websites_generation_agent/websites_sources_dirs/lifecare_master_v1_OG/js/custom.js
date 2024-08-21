@@ -218,4 +218,31 @@ var TxtType = function(el, toRotate, period) {
         var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
     }
 	
-/*== map js ==*/	
+/*== map js ==*/
+
+function trimText(text, maxLength) {
+    if (text.length <= maxLength) {
+        return text; // If the text is already within the limit, return it as is
+    }
+
+    const words = text.split(' ');
+    let trimmedText = '';
+
+    for (let i = 0; i < words.length; i++) {
+        if (trimmedText.length + words[i].length <= maxLength) {
+            trimmedText += words[i] + ' ';
+        } else {
+            break; // Stop if adding the next word would exceed the limit
+        }
+    }
+
+    // If no word fits within the limit, return the first word
+    return trimmedText.trim() || words[0];
+}
+
+document.addEventListener("DOMContentLoaded", function() {
+    const element = document.getElementById('brand-name');
+    if (element) {
+        element.innerText = trimText(element.innerText, 9);
+    }
+});
