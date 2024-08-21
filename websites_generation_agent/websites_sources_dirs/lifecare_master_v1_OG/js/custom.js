@@ -246,3 +246,10 @@ document.addEventListener("DOMContentLoaded", function() {
         element.innerText = trimText(element.innerText, 9);
     }
 });
+
+document.addEventListener("DOMContentLoaded", function() {
+    const element = document.getElementById('brand-name-footer');
+    if (element) {
+        element.innerText = trimText(element.innerText, 9);
+    }
+});
