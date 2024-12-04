@@ -70,26 +70,26 @@
           "png_assets": [
               {
                   "path": "my_logo1.png",
-                  "target": "Tshirt Short sleeve",
+                  "target": "Black office reception 1",
                   "coordinates": [
-                      958,
-                      454
+                      1016,
+                      393
                   ],
                   "reference_point": "center",
-                  "max_width": 145,
+                  "max_width": 712,
                   "blend_mode": "normal",
                   "fill_intensity": 1.0,
                   "color_fill": "",
                   "bilinear_points": "",
                   "extrude_traits": {
-                        "extrude_depth" : 50,
-                        "extrude_color" : "#ffffff",
+                        "extrude_depth" : 20,
+                        "extrude_color" : "#000000",
                         "extrude_angle" : 135
                     },
                     "shadow_traits": {
                         "shadow_color": "#000000",
                         "shadow_angle": 135,
-                        "distance": 40,
+                        "distance": 60,
                         "spread_percentage": 41,
                         "size": 43,
                         "opacity": 255 
@@ -99,7 +99,7 @@
           ],
           "final_image_name": "outputs/office_set_v2.png",
           "hue_saturation": {
-              "hue_shift": "blue",
+              "hue_shift": "",
               "saturation_shift": 0
           }
       },
@@ -149,7 +149,7 @@
           ],
           "final_image_name": "outputs/office_set_v3.png",
           "hue_saturation": {
-              "hue_shift": "red",
+              "hue_shift": "",
               "saturation_shift": 0
           }
       } 
