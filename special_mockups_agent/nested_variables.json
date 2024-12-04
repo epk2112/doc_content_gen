@@ -19,26 +19,26 @@
             "png_assets": [
                 {
                     "path": "my_logo1.png",
-                    "target": "Envelope Opened",
+                    "target": "Dark Graunge",
                     "coordinates": [
-                        888,
-                        172
+                        984,
+                        752
                     ],
                     "reference_point": "center",
-                    "max_width": 120,
+                    "max_width": 1100,
                     "blend_mode": "normal",
                     "fill_intensity": 1.0,
                     "color_fill": "",
                     "bilinear_points": "",
                     "extrude_traits": {
-                        "extrude_depth" : 50,
+                        "extrude_depth" : 0,
                         "extrude_color" : "#ffffff",
                         "extrude_angle" : 135
                     },
                     "shadow_traits": {
                         "shadow_color": "#000000",
                         "shadow_angle": 135,
-                        "distance": 40,
+                        "distance": 24,
                         "spread_percentage": 41,
                         "size": 43,
                         "opacity": 255 
