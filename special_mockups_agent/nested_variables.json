@@ -31,14 +31,14 @@
                     "color_fill": "",
                     "bilinear_points": "",
                     "extrude_traits": {
-                        "extrude_depth" : 0,
-                        "extrude_color" : "#ffffff",
+                        "extrude_depth" : 20,
+                        "extrude_color" : "#000000",
                         "extrude_angle" : 135
                     },
                     "shadow_traits": {
                         "shadow_color": "#000000",
                         "shadow_angle": 135,
-                        "distance": 24,
+                        "distance": 60,
                         "spread_percentage": 41,
                         "size": 43,
                         "opacity": 255 
@@ -47,7 +47,7 @@
             ],
             "final_image_name": "outputs/office_set_v1.png",
             "hue_saturation": {
-                "hue_shift": "blue",
+                "hue_shift": "",
                 "saturation_shift": 0
             }
         },
