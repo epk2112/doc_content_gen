@@ -302,6 +302,156 @@
               "hue_shift": "",
               "saturation_shift": 0
           }
+      },
+      "office_set_v7": {
+          "background_image_path": "office_set_v7_template.png",
+          "text_items": [
+              {
+                  "text": "",
+                  "coordinates": [
+                      346,
+                      90
+                  ],
+                  "reference_point": "bottom-left",
+                  "color": "#ffbc00",
+                  "font_size": 56,
+                  "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf",
+                  "bilinear_points": ""
+              }
+          ],
+          "png_assets": [
+              {
+                  "path": "my_logo1.png",
+                  "target": "Tshirt Short sleeve",
+                  "coordinates": [
+                      992, 756
+                  ],
+                  "reference_point": "center",
+                  "max_width": 1295,
+                  "blend_mode": "normal",
+                  "fill_intensity": 1.0,
+                  "color_fill": "",
+                  "bilinear_points": "",
+                  "extrude_traits": {
+                        "extrude_depth" : 20,
+                        "extrude_color" : "#000000",
+                        "extrude_angle" : 135
+                    },
+                    "shadow_traits": {
+                        "shadow_color": "#000000",
+                        "shadow_angle": 135,
+                        "distance": 75,
+                        "spread_percentage": 41,
+                        "size": 43,
+                        "opacity": 255 
+                    }
+              }              
+          ],
+          "final_image_name": "outputs/office_set_v7.png",
+          "hue_saturation": {
+              "hue_shift": "",
+              "saturation_shift": 0
+          }
+      },
+      "office_set_v8": {
+          "background_image_path": "office_set_v8_template.png",
+          "text_items": [
+              {
+                  "text": "",
+                  "coordinates": [
+                      346,
+                      90
+                  ],
+                  "reference_point": "bottom-left",
+                  "color": "#ffbc00",
+                  "font_size": 56,
+                  "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf",
+                  "bilinear_points": ""
+              }
+          ],
+          "png_assets": [
+              {
+                  "path": "my_logo1.png",
+                  "target": "Tshirt Short sleeve",
+                  "coordinates": [
+                      1028, 534
+                  ],
+                  "reference_point": "center",
+                  "max_width": 892,
+                  "blend_mode": "normal",
+                  "fill_intensity": 1.0,
+                  "color_fill": "",
+                  "bilinear_points": "",
+                  "extrude_traits": {
+                        "extrude_depth" : 20,
+                        "extrude_color" : "#000000",
+                        "extrude_angle" : 135
+                    },
+                    "shadow_traits": {
+                        "shadow_color": "#000000",
+                        "shadow_angle": 135,
+                        "distance": 75,
+                        "spread_percentage": 41,
+                        "size": 43,
+                        "opacity": 255 
+                    }
+              }              
+          ],
+          "final_image_name": "outputs/office_set_v8.png",
+          "hue_saturation": {
+              "hue_shift": "",
+              "saturation_shift": 0
+          }
+      },
+      "office_set_v9": {
+          "background_image_path": "office_set_v9_template.png",
+          "text_items": [
+              {
+                  "text": "",
+                  "coordinates": [
+                      346,
+                      90
+                  ],
+                  "reference_point": "bottom-left",
+                  "color": "#ffbc00",
+                  "font_size": 56,
+                  "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf",
+                  "bilinear_points": ""
+              }
+          ],
+          "png_assets": [
+              {
+                  "path": "my_logo1.png",
+                  "target": "Tshirt Short sleeve",
+                  "coordinates": [
+                      1042, 788
+                  ],
+                  "reference_point": "center",
+                  "max_width": 662,
+                  "blend_mode": "normal",
+                  "fill_intensity": 1.0,
+                  "color_fill": "",
+                  "bilinear_points": "",
+                  "extrude_traits": {
+                        "extrude_depth" : 30,
+                        "extrude_color" : "#000000",
+                        "extrude_angle" : 135
+                    },
+                    "shadow_traits": {
+                        "shadow_color": "#000000",
+                        "shadow_angle": 135,
+                        "distance": 85,
+                        "spread_percentage": 41,
+                        "size": 43,
+                        "opacity": 255 
+                    }
+              }              
+          ],
+          "final_image_name": "outputs/office_set_v9.png",
+          "hue_saturation": {
+              "hue_shift": "",
+              "saturation_shift": 0
+          }
       } 
     }
   }
