@@ -124,23 +124,23 @@
                   "path": "my_logo1.png",
                   "target": "Tshirt Short sleeve",
                   "coordinates": [
-                      1456, 615
+                      999, 668
                   ],
                   "reference_point": "center",
-                  "max_width": 293,
+                  "max_width": 1050,
                   "blend_mode": "normal",
                   "fill_intensity": 1.0,
                   "color_fill": "",
                   "bilinear_points": "",
                   "extrude_traits": {
-                        "extrude_depth" : 50,
-                        "extrude_color" : "#ffffff",
+                        "extrude_depth" : 20,
+                        "extrude_color" : "#000000",
                         "extrude_angle" : 135
                     },
                     "shadow_traits": {
                         "shadow_color": "#000000",
                         "shadow_angle": 135,
-                        "distance": 40,
+                        "distance": 60,
                         "spread_percentage": 41,
                         "size": 43,
                         "opacity": 255 
@@ -148,6 +148,156 @@
               }              
           ],
           "final_image_name": "outputs/office_set_v3.png",
+          "hue_saturation": {
+              "hue_shift": "",
+              "saturation_shift": 0
+          }
+      },
+      "office_set_v4": {
+          "background_image_path": "office_set_v4_template.png",
+          "text_items": [
+              {
+                  "text": "",
+                  "coordinates": [
+                      346,
+                      90
+                  ],
+                  "reference_point": "bottom-left",
+                  "color": "#ffbc00",
+                  "font_size": 56,
+                  "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf",
+                  "bilinear_points": ""
+              }
+          ],
+          "png_assets": [
+              {
+                  "path": "my_logo1.png",
+                  "target": "Tshirt Short sleeve",
+                  "coordinates": [
+                      994, 674
+                  ],
+                  "reference_point": "center",
+                  "max_width": 950,
+                  "blend_mode": "normal",
+                  "fill_intensity": 1.0,
+                  "color_fill": "",
+                  "bilinear_points": "",
+                  "extrude_traits": {
+                        "extrude_depth" : 0,
+                        "extrude_color" : "#000000",
+                        "extrude_angle" : 135
+                    },
+                    "shadow_traits": {
+                        "shadow_color": "#000000",
+                        "shadow_angle": 135,
+                        "distance": 60,
+                        "spread_percentage": 41,
+                        "size": 43,
+                        "opacity": 255 
+                    }
+              }              
+          ],
+          "final_image_name": "outputs/office_set_v4.png",
+          "hue_saturation": {
+              "hue_shift": "",
+              "saturation_shift": 0
+          }
+      },
+      "office_set_v5": {
+          "background_image_path": "office_set_v5_template.png",
+          "text_items": [
+              {
+                  "text": "",
+                  "coordinates": [
+                      346,
+                      90
+                  ],
+                  "reference_point": "bottom-left",
+                  "color": "#ffbc00",
+                  "font_size": 56,
+                  "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf",
+                  "bilinear_points": ""
+              }
+          ],
+          "png_assets": [
+              {
+                  "path": "my_logo1.png",
+                  "target": "Tshirt Short sleeve",
+                  "coordinates": [
+                      1326, 553
+                  ],
+                  "reference_point": "center",
+                  "max_width": 1010,
+                  "blend_mode": "normal",
+                  "fill_intensity": 1.0,
+                  "color_fill": "",
+                  "bilinear_points": "",
+                  "extrude_traits": {
+                        "extrude_depth" : 20,
+                        "extrude_color" : "#000000",
+                        "extrude_angle" : 135
+                    },
+                    "shadow_traits": {
+                        "shadow_color": "#000000",
+                        "shadow_angle": 135,
+                        "distance": 60,
+                        "spread_percentage": 41,
+                        "size": 43,
+                        "opacity": 255 
+                    }
+              }              
+          ],
+          "final_image_name": "outputs/office_set_v5.png",
+          "hue_saturation": {
+              "hue_shift": "",
+              "saturation_shift": 0
+          }
+      },
+      "office_set_v6": {
+          "background_image_path": "office_set_v6_template.png",
+          "text_items": [
+              {
+                  "text": "",
+                  "coordinates": [
+                      346,
+                      90
+                  ],
+                  "reference_point": "bottom-left",
+                  "color": "#ffbc00",
+                  "font_size": 56,
+                  "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf",
+                  "bilinear_points": ""
+              }
+          ],
+          "png_assets": [
+              {
+                  "path": "my_logo1.png",
+                  "target": "Tshirt Short sleeve",
+                  "coordinates": [
+                      498, 540
+                  ],
+                  "reference_point": "center",
+                  "max_width": 370,
+                  "blend_mode": "normal",
+                  "fill_intensity": 1.0,
+                  "color_fill": "",
+                  "bilinear_points": "",
+                  "extrude_traits": {
+                        "extrude_depth" : 20,
+                        "extrude_color" : "#000000",
+                        "extrude_angle" : 135
+                    },
+                    "shadow_traits": {
+                        "shadow_color": "#000000",
+                        "shadow_angle": 135,
+                        "distance": 60,
+                        "spread_percentage": 41,
+                        "size": 43,
+                        "opacity": 255 
+                    }
+              }              
+          ],
+          "final_image_name": "outputs/office_set_v6.png",
           "hue_saturation": {
               "hue_shift": "",
               "saturation_shift": 0
