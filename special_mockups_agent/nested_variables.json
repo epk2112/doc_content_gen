@@ -631,7 +631,7 @@
                   "blend_mode": "normal",
                   "fill_intensity": 1.0,
                   "color_fill": "",
-                  "bilinear_points": "92 181 896 23 907 868 91 979",
+                  "bilinear_points": "6 173 834 8 848 880 6 994",
                   "extrude_traits": {
                         "extrude_depth" : 20,
                         "extrude_color" : "#000000",
