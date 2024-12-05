@@ -674,14 +674,14 @@
                   "path": "my_logo1.png",
                   "target": "Tshirt Short sleeve",
                   "coordinates": [
-                      1022, 1289
+                      1023, 680
                   ],
                   "reference_point": "center",
-                  "max_width": 556,
+                  "max_width": 1106,
                   "blend_mode": "normal",
                   "fill_intensity": 1.0,
                   "color_fill": "",
-                  "bilinear_points": "",
+                  "bilinear_points": "37 4 763 229 806 992 4 785",
                   "extrude_traits": {
                         "extrude_depth" : 20,
                         "extrude_color" : "#000000",
@@ -724,14 +724,14 @@
                   "path": "my_logo1.png",
                   "target": "Tshirt Short sleeve",
                   "coordinates": [
-                      1022, 1289
+                      1308, 1557
                   ],
                   "reference_point": "center",
-                  "max_width": 556,
+                  "max_width": 885,
                   "blend_mode": "normal",
                   "fill_intensity": 1.0,
                   "color_fill": "",
-                  "bilinear_points": "",
+                  "bilinear_points": "6 179 754 5 761 991 4 951",
                   "extrude_traits": {
                         "extrude_depth" : 20,
                         "extrude_color" : "#000000",
