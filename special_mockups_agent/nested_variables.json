@@ -752,6 +752,24 @@
               "hue_shift": "",
               "saturation_shift": 0
           }
-      }       
+      },
+    "office_set_v16": {
+        "background_image1_path": "bg_image3_woodbrand.jpg",
+        "background_image2_path": "bg_image2_woodbrand.jpg",
+        "png_asset_path": "my_logo1.png",
+        "final_image_name": "outputs/office_set_v16.png"
+    },
+    "office_set_v17": {
+        "background_image1_path": "bg_image1_marble.jpg",
+        "background_image2_path": "bg_image2_marble.jpg",
+        "png_asset_path": "my_logo1.png",
+        "final_image_name": "outputs/office_set_v17.png"
+    },
+    "office_set_v18": {
+        "background_image1_path": "bg_image1_metal.jpg",
+        "background_image2_path": "bg_image2_metal.jpg",
+        "png_asset_path": "my_logo1.png",
+        "final_image_name": "outputs/office_set_v18.png"
     }
+}
   }
