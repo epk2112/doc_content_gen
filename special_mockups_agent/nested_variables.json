@@ -785,16 +785,16 @@
         "final_image_name": "outputs/office_set_v19.png"
     },
     "office_set_v20": {
-        "background_image1_path": "gold_metal1_bg_image1.png",
-        "background_image2_path": "bg_image2_metal.jpg",
-        "final_background_image_path": "gold_metal1_final_bg.png",
+        "background_image1_path": "sign_on_wall1_bg_image1.png",
+        "background_image2_path": "bg_image2_woodbrand.jpg",
+        "final_background_image_path": "sign_on_wall1_final_bg.png",
         "png_asset_path": "my_logo1.png",
         "coordinates": [
-            176,
-            184
+            259,
+            247
         ],
         "reference_point": "top-left",
-        "max_width": 826,
+        "max_width": 454,
         "final_image_name": "outputs/office_set_v20.png"
     },
     "office_set_v21": {
