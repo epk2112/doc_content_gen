@@ -809,6 +809,45 @@
         "reference_point": "top-left",
         "max_width": 545,
         "final_image_name": "outputs/office_set_v21.png"
+    },
+    "office_set_v22": {
+        "background_image1_path": "office_wall1_bg_image1.png",
+        "background_image2_path": "office_wall1_bg_image2.png",
+        "final_background_image_path": "office_wall1_final_bg.png",
+        "png_asset_path": "my_logo1.png",
+        "coordinates": [
+            487,
+            313
+        ],
+        "reference_point": "top-left",
+        "max_width": 389,
+        "final_image_name": "outputs/office_set_v22.png"
+    },
+    "office_set_v23": {
+        "background_image1_path": "office_wall2_bg_image1.png",
+        "background_image2_path": "office_wall2_bg_image2.png",
+        "final_background_image_path": "office_wall2_final_bg.png",
+        "png_asset_path": "my_logo1.png",
+        "coordinates": [
+            213,
+            50
+        ],
+        "reference_point": "top-left",
+        "max_width": 635,
+        "final_image_name": "outputs/office_set_v23.png"
+    },
+    "office_set_v24": {
+        "background_image1_path": "office_wall3_bg_image1.png",
+        "background_image2_path": "sign_on_wall1_bg_image2.png",
+        "final_background_image_path": "office_wall3_final_bg.png",
+        "png_asset_path": "my_logo1.png",
+        "coordinates": [
+            293,
+            30
+        ],
+        "reference_point": "top-left",
+        "max_width": 693,
+        "final_image_name": "outputs/office_set_v24.png"
     }
 }
   }
