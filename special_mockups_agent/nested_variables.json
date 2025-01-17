@@ -998,6 +998,82 @@
               "hue_shift": "",
               "saturation_shift": 0
           }
-      }
+      },
+      "office_set_v28": {
+          "background_image_path": "square_sign1.png",
+          "text_items": [
+              {
+                  "text": "",
+                  "coordinates": [
+                      346,
+                      90
+                  ],
+                  "reference_point": "bottom-left",
+                  "color": "#ffbc00",
+                  "font_size": 56,
+                  "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf",
+                  "bilinear_points": ""
+              }
+          ],
+          "png_assets": [
+              {
+                  "path": "my_logo1.png",
+                  "target": "Square sign 2",
+                  "coordinates": [
+                      598, 599
+                  ],
+                  "reference_point": "center",
+                  "max_width": 634,
+                  "blend_mode": "normal",
+                  "fill_intensity": 1.0,
+                  "color_fill": "",
+                  "bilinear_points": "",
+                  "extrude_traits": {
+                        "extrude_depth" : 20,
+                        "extrude_color" : "#000000",
+                        "extrude_angle" : 45
+                    },
+                    "shadow_traits": {
+                        "shadow_color": "#000000",
+                        "shadow_angle": 45,
+                        "distance": 75,
+                        "spread_percentage": 41,
+                        "size": 43,
+                        "opacity": 255 
+                    }
+              }              
+          ],
+          "final_image_name": "outputs/office_set_v28.png",
+          "hue_saturation": {
+              "hue_shift": "",
+              "saturation_shift": 0
+          }
+      },
+      "office_set_v29": {
+        "background_image1_path": "round_sign3_bg_image1.png",
+        "background_image2_path": "sign_on_wall1_bg_image2.png",
+        "final_background_image_path": "round_sign3_final_bg.png",
+        "png_asset_path": "my_logo1.png",
+        "coordinates": [
+            267,
+            389
+        ],
+        "reference_point": "top-left",
+        "max_width": 684,
+        "final_image_name": "outputs/office_set_v29.png"
+    },
+    "office_set_v30": {
+        "background_image1_path": "round_sign4_bg_image1.png",
+        "background_image2_path": "round_sign4_bg_image2.png",
+        "final_background_image_path": "round_sign4_final_bg.png",
+        "png_asset_path": "my_logo1.png",
+        "coordinates": [
+            238,
+            222
+        ],
+        "reference_point": "top-left",
+        "max_width": 767,
+        "final_image_name": "outputs/office_set_v30.png"
+    }
 }
   }
