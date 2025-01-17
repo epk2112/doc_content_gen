@@ -848,6 +848,156 @@
         "reference_point": "top-left",
         "max_width": 693,
         "final_image_name": "outputs/office_set_v24.png"
-    }
+    },
+    "office_set_v25": {
+          "background_image_path": "round_sign1.png",
+          "text_items": [
+              {
+                  "text": "",
+                  "coordinates": [
+                      346,
+                      90
+                  ],
+                  "reference_point": "bottom-left",
+                  "color": "#ffbc00",
+                  "font_size": 56,
+                  "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf",
+                  "bilinear_points": ""
+              }
+          ],
+          "png_assets": [
+              {
+                  "path": "my_logo1.png",
+                  "target": "Black round sign",
+                  "coordinates": [
+                      992, 775
+                  ],
+                  "reference_point": "center",
+                  "max_width": 541,
+                  "blend_mode": "normal",
+                  "fill_intensity": 1.0,
+                  "color_fill": "",
+                  "bilinear_points": "",
+                  "extrude_traits": {
+                        "extrude_depth" : 20,
+                        "extrude_color" : "#000000",
+                        "extrude_angle" : 45
+                    },
+                    "shadow_traits": {
+                        "shadow_color": "#000000",
+                        "shadow_angle": 45,
+                        "distance": 75,
+                        "spread_percentage": 41,
+                        "size": 43,
+                        "opacity": 255 
+                    }
+              }              
+          ],
+          "final_image_name": "outputs/office_set_v25.png",
+          "hue_saturation": {
+              "hue_shift": "",
+              "saturation_shift": 0
+          }
+      },
+      "office_set_v26": {
+          "background_image_path": "office_wall4_final_bg.png",
+          "text_items": [
+              {
+                  "text": "",
+                  "coordinates": [
+                      346,
+                      90
+                  ],
+                  "reference_point": "bottom-left",
+                  "color": "#ffbc00",
+                  "font_size": 56,
+                  "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf",
+                  "bilinear_points": ""
+              }
+          ],
+          "png_assets": [
+              {
+                  "path": "my_logo1.png",
+                  "target": "Black Office Wall",
+                  "coordinates": [
+                      630, 283
+                  ],
+                  "reference_point": "center",
+                  "max_width": 530,
+                  "blend_mode": "normal",
+                  "fill_intensity": 1.0,
+                  "color_fill": "",
+                  "bilinear_points": "",
+                  "extrude_traits": {
+                        "extrude_depth" : 20,
+                        "extrude_color" : "#000000",
+                        "extrude_angle" : 45
+                    },
+                    "shadow_traits": {
+                        "shadow_color": "#000000",
+                        "shadow_angle": 45,
+                        "distance": 75,
+                        "spread_percentage": 41,
+                        "size": 43,
+                        "opacity": 255 
+                    }
+              }              
+          ],
+          "final_image_name": "outputs/office_set_v26.png",
+          "hue_saturation": {
+              "hue_shift": "",
+              "saturation_shift": 0
+          }
+      },
+      "office_set_v27": {
+          "background_image_path": "round_sign2.png",
+          "text_items": [
+              {
+                  "text": "",
+                  "coordinates": [
+                      346,
+                      90
+                  ],
+                  "reference_point": "bottom-left",
+                  "color": "#ffbc00",
+                  "font_size": 56,
+                  "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf",
+                  "bilinear_points": ""
+              }
+          ],
+          "png_assets": [
+              {
+                  "path": "my_logo1.png",
+                  "target": "Roud sign 2",
+                  "coordinates": [
+                      480, 509
+                  ],
+                  "reference_point": "center",
+                  "max_width": 426,
+                  "blend_mode": "normal",
+                  "fill_intensity": 1.0,
+                  "color_fill": "",
+                  "bilinear_points": "",
+                  "extrude_traits": {
+                        "extrude_depth" : 20,
+                        "extrude_color" : "#000000",
+                        "extrude_angle" : 45
+                    },
+                    "shadow_traits": {
+                        "shadow_color": "#000000",
+                        "shadow_angle": 45,
+                        "distance": 75,
+                        "spread_percentage": 41,
+                        "size": 43,
+                        "opacity": 255 
+                    }
+              }              
+          ],
+          "final_image_name": "outputs/office_set_v27.png",
+          "hue_saturation": {
+              "hue_shift": "",
+              "saturation_shift": 0
+          }
+      }
 }
   }
