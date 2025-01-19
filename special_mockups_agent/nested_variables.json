@@ -1074,6 +1074,465 @@
         "reference_point": "top-left",
         "max_width": 767,
         "final_image_name": "outputs/office_set_v30.png"
+    },
+    "office_set_v31": {
+        "background_image_path": "office_building1.png",
+        "text_items": [
+            {
+                "text": "",
+                "coordinates": [
+                    346,
+                    90
+                ],
+                "reference_point": "bottom-left",
+                "color": "#ffbc00",
+                "font_size": 56,
+                "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf",
+                "bilinear_points": ""
+            }
+        ],
+        "png_assets": [
+            {
+                "path": "my_logo1.png",
+                "target": "Office Building",
+                "coordinates": [
+                    597,
+                    539
+                ],
+                "reference_point": "center",
+                "max_width": 287,
+                "blend_mode": "normal",
+                "fill_intensity": 1.0,
+                "color_fill": "",
+                "bilinear_points": "",
+                "extrude_traits": {
+                    "extrude_depth": 30,
+                    "extrude_color": "#000000",
+                    "extrude_angle": 45
+                },
+                "shadow_traits": {
+                    "shadow_color": "#000000",
+                    "shadow_angle": 45,
+                    "distance": 85,
+                    "spread_percentage": 41,
+                    "size": 43,
+                    "opacity": 255
+                }
+            }
+        ],
+        "final_image_name": "outputs/office_set_v31.png",
+        "hue_saturation": {
+            "hue_shift": "",
+            "saturation_shift": 0
+        }
+    },
+    "office_set_v32": {
+        "background_image_path": "office_building2.png",
+        "text_items": [
+            {
+                "text": "",
+                "coordinates": [
+                    346,
+                    90
+                ],
+                "reference_point": "bottom-left",
+                "color": "#ffbc00",
+                "font_size": 56,
+                "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf",
+                "bilinear_points": ""
+            }
+        ],
+        "png_assets": [
+            {
+                "path": "my_logo1.png",
+                "target": "Office Building",
+                "coordinates": [
+                    589,
+                    465
+                ],
+                "reference_point": "center",
+                "max_width": 329,
+                "blend_mode": "normal",
+                "fill_intensity": 1.0,
+                "color_fill": "",
+                "bilinear_points": "",
+                "extrude_traits": {
+                    "extrude_depth": 30,
+                    "extrude_color": "#000000",
+                    "extrude_angle": 45
+                },
+                "shadow_traits": {
+                    "shadow_color": "#000000",
+                    "shadow_angle": 45,
+                    "distance": 85,
+                    "spread_percentage": 41,
+                    "size": 43,
+                    "opacity": 255
+                }
+            }
+        ],
+        "final_image_name": "outputs/office_set_v32.png",
+        "hue_saturation": {
+            "hue_shift": "",
+            "saturation_shift": 0
+        }
+    },
+    "office_set_v33": {
+        "background_image_path": "office_building3.png",
+        "text_items": [
+            {
+                "text": "",
+                "coordinates": [
+                    346,
+                    90
+                ],
+                "reference_point": "bottom-left",
+                "color": "#ffbc00",
+                "font_size": 56,
+                "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf",
+                "bilinear_points": ""
+            }
+        ],
+        "png_assets": [
+            {
+                "path": "my_logo1.png",
+                "target": "Office Building",
+                "coordinates": [
+                    593,
+                    500
+                ],
+                "reference_point": "center",
+                "max_width": 348,
+                "blend_mode": "normal",
+                "fill_intensity": 1.0,
+                "color_fill": "",
+                "bilinear_points": "",
+                "extrude_traits": {
+                    "extrude_depth": 30,
+                    "extrude_color": "#000000",
+                    "extrude_angle": 45
+                },
+                "shadow_traits": {
+                    "shadow_color": "#000000",
+                    "shadow_angle": 45,
+                    "distance": 85,
+                    "spread_percentage": 41,
+                    "size": 43,
+                    "opacity": 255
+                }
+            }
+        ],
+        "final_image_name": "outputs/office_set_v33.png",
+        "hue_saturation": {
+            "hue_shift": "",
+            "saturation_shift": 0
+        }
+    },
+    "office_set_v34": {
+        "background_image_path": "holded_sign1.png",
+        "text_items": [
+            {
+                "text": "",
+                "coordinates": [
+                    346,
+                    90
+                ],
+                "reference_point": "bottom-left",
+                "color": "#ffbc00",
+                "font_size": 56,
+                "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf",
+                "bilinear_points": ""
+            }
+        ],
+        "png_assets": [
+            {
+                "path": "my_logo1.png",
+                "target": "Holded Sign",
+                "coordinates": [
+                    439,
+                    669
+                ],
+                "reference_point": "center",
+                "max_width": 505,
+                "blend_mode": "normal",
+                "fill_intensity": 1.0,
+                "color_fill": "",
+                "bilinear_points": "",
+                "extrude_traits": {
+                    "extrude_depth": 30,
+                    "extrude_color": "#000000",
+                    "extrude_angle": 45
+                },
+                "shadow_traits": {
+                    "shadow_color": "#000000",
+                    "shadow_angle": 45,
+                    "distance": 85,
+                    "spread_percentage": 41,
+                    "size": 43,
+                    "opacity": 255
+                }
+            }
+        ],
+        "final_image_name": "outputs/office_set_v34.png",
+        "hue_saturation": {
+            "hue_shift": "",
+            "saturation_shift": 0
+        }
+    },
+    "office_set_v35": {
+        "background_image_path": "holded_sign2.png",
+        "text_items": [
+            {
+                "text": "",
+                "coordinates": [
+                    346,
+                    90
+                ],
+                "reference_point": "bottom-left",
+                "color": "#ffbc00",
+                "font_size": 56,
+                "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf",
+                "bilinear_points": ""
+            }
+        ],
+        "png_assets": [
+            {
+                "path": "my_logo1.png",
+                "target": "Holded Sign",
+                "coordinates": [
+                    601,
+                    709
+                ],
+                "reference_point": "center",
+                "max_width": 326,
+                "blend_mode": "normal",
+                "fill_intensity": 1.0,
+                "color_fill": "",
+                "bilinear_points": "",
+                "extrude_traits": {
+                    "extrude_depth": 30,
+                    "extrude_color": "#000000",
+                    "extrude_angle": 45
+                },
+                "shadow_traits": {
+                    "shadow_color": "#000000",
+                    "shadow_angle": 45,
+                    "distance": 85,
+                    "spread_percentage": 41,
+                    "size": 43,
+                    "opacity": 255
+                }
+            }
+        ],
+        "final_image_name": "outputs/office_set_v35.png",
+        "hue_saturation": {
+            "hue_shift": "",
+            "saturation_shift": 0
+        }
+    },
+    "office_set_v36": {
+        "background_image_path": "holded_sign3.png",
+        "text_items": [
+            {
+                "text": "",
+                "coordinates": [
+                    346,
+                    90
+                ],
+                "reference_point": "bottom-left",
+                "color": "#ffbc00",
+                "font_size": 56,
+                "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf",
+                "bilinear_points": ""
+            }
+        ],
+        "png_assets": [
+            {
+                "path": "my_logo1.png",
+                "target": "Holded Sign",
+                "coordinates": [
+                    578,
+                    723
+                ],
+                "reference_point": "center",
+                "max_width": 392,
+                "blend_mode": "normal",
+                "fill_intensity": 1.0,
+                "color_fill": "",
+                "bilinear_points": "",
+                "extrude_traits": {
+                    "extrude_depth": 30,
+                    "extrude_color": "#000000",
+                    "extrude_angle": 45
+                },
+                "shadow_traits": {
+                    "shadow_color": "#000000",
+                    "shadow_angle": 45,
+                    "distance": 85,
+                    "spread_percentage": 41,
+                    "size": 43,
+                    "opacity": 255
+                }
+            }
+        ],
+        "final_image_name": "outputs/office_set_v36.png",
+        "hue_saturation": {
+            "hue_shift": "",
+            "saturation_shift": 0
+        }
+    },
+    "office_set_v37": {
+        "background_image_path": "mall_sign1.png",
+        "text_items": [
+            {
+                "text": "",
+                "coordinates": [
+                    346,
+                    90
+                ],
+                "reference_point": "bottom-left",
+                "color": "#ffbc00",
+                "font_size": 56,
+                "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf",
+                "bilinear_points": ""
+            }
+        ],
+        "png_assets": [
+            {
+                "path": "my_logo1.png",
+                "target": "Mall Sign",
+                "coordinates": [
+                    503,
+                    554
+                ],
+                "reference_point": "center",
+                "max_width": 542,
+                "blend_mode": "normal",
+                "fill_intensity": 1.0,
+                "color_fill": "",
+                "bilinear_points": "",
+                "extrude_traits": {
+                    "extrude_depth": 30,
+                    "extrude_color": "#000000",
+                    "extrude_angle": 45
+                },
+                "shadow_traits": {
+                    "shadow_color": "#000000",
+                    "shadow_angle": 45,
+                    "distance": 85,
+                    "spread_percentage": 41,
+                    "size": 43,
+                    "opacity": 255
+                }
+            }
+        ],
+        "final_image_name": "outputs/office_set_v37.png",
+        "hue_saturation": {
+            "hue_shift": "",
+            "saturation_shift": 0
+        }
+    },
+    "office_set_v38": {
+        "background_image_path": "mall_sign2.png",
+        "text_items": [
+            {
+                "text": "",
+                "coordinates": [
+                    346,
+                    90
+                ],
+                "reference_point": "bottom-left",
+                "color": "#ffbc00",
+                "font_size": 56,
+                "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf",
+                "bilinear_points": ""
+            }
+        ],
+        "png_assets": [
+            {
+                "path": "my_logo1.png",
+                "target": "Mall Sign",
+                "coordinates": [
+                    605,
+                    408
+                ],
+                "reference_point": "center",
+                "max_width": 496,
+                "blend_mode": "normal",
+                "fill_intensity": 1.0,
+                "color_fill": "",
+                "bilinear_points": "",
+                "extrude_traits": {
+                    "extrude_depth": 30,
+                    "extrude_color": "#000000",
+                    "extrude_angle": 45
+                },
+                "shadow_traits": {
+                    "shadow_color": "#000000",
+                    "shadow_angle": 45,
+                    "distance": 85,
+                    "spread_percentage": 41,
+                    "size": 43,
+                    "opacity": 255
+                }
+            }
+        ],
+        "final_image_name": "outputs/office_set_v38.png",
+        "hue_saturation": {
+            "hue_shift": "",
+            "saturation_shift": 0
+        }
+    },
+    "office_set_v39": {
+        "background_image_path": "mall_sign3.png",
+        "text_items": [
+            {
+                "text": "",
+                "coordinates": [
+                    346,
+                    90
+                ],
+                "reference_point": "bottom-left",
+                "color": "#ffbc00",
+                "font_size": 56,
+                "font_path": "/content/doc_content_gen/fonts/Montserrat-Black.ttf",
+                "bilinear_points": ""
+            }
+        ],
+        "png_assets": [
+            {
+                "path": "my_logo1.png",
+                "target": "Mall Sign",
+                "coordinates": [
+                    772,
+                    845
+                ],
+                "reference_point": "center",
+                "max_width": 441,
+                "blend_mode": "normal",
+                "fill_intensity": 1.0,
+                "color_fill": "",
+                "bilinear_points": "",
+                "extrude_traits": {
+                    "extrude_depth": 30,
+                    "extrude_color": "#000000",
+                    "extrude_angle": 45
+                },
+                "shadow_traits": {
+                    "shadow_color": "#000000",
+                    "shadow_angle": 45,
+                    "distance": 85,
+                    "spread_percentage": 41,
+                    "size": 43,
+                    "opacity": 255
+                }
+            }
+        ],
+        "final_image_name": "outputs/office_set_v39.png",
+        "hue_saturation": {
+            "hue_shift": "",
+            "saturation_shift": 0
+        }
     }
 }
   }
