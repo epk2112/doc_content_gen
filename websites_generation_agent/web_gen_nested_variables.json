@@ -1346,154 +1346,109 @@
       "topic_subject": "Kimara Foods. This Company is Based On Tanzania and is a Food and Beverage Company",
       "images_to_replace": [
         {
-          "image_alt_id": "about_us_section_image_alt",
-          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/assets/img/about-us.png",
-          "image_og_size": "600x443"
+          "image_alt_id": "head_meta_og_image_alt",
+          "image_relative_path": "img/hero-bg.jpg",
+          "image_og_size": "1920x800"
         },
         {
-          "image_alt_id": "counter_section_background_image_alt",
-          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/assets/img/counter-bg.jpeg",
-          "image_og_size": "2200x750"
+          "image_alt_id": "home_about_area_image_alt",
+          "image_relative_path": "img/about-img.jpg",
+          "image_og_size": "945x600"
         },
         {
-          "image_alt_id": "testimonial_section_background_image_alt",
-          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/assets/img/testimonial-bg.jpg",
-          "image_og_size": "2200x800"
+          "image_alt_id": "blog_post_thumbnail_image_1_alt",
+          "image_relative_path": "img/b1.jpg",
+          "image_og_size": "360x260"
         },
         {
-          "image_alt_id": "gallery_item_2_image_alt",
-          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/assets/img/gallery/2.jpg",
-          "image_og_size": "640x480"
+          "image_alt_id": "blog_post_thumbnail_image_2_alt",
+          "image_relative_path": "img/b2.jpg",
+          "image_og_size": "360x260"
         },
         {
-          "image_alt_id": "gallery_item_3_image_alt",
-          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/assets/img/gallery/3.jpg",
-          "image_og_size": "640x480"
+          "image_alt_id": "blog_post_thumbnail_image_3_alt",
+          "image_relative_path": "img/b3.jpg",
+          "image_og_size": "360x260"
         },
         {
-          "image_alt_id": "gallery_item_4_image_alt",
-          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/assets/img/gallery/4.jpg",
-          "image_og_size": "640x480"
+          "image_alt_id": "popular_image_1_alt",
+          "image_relative_path": "img/d1.jpg",
+          "image_og_size": "360x211"
         },
         {
-          "image_alt_id": "gallery_item_5_image_alt",
-          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/assets/img/gallery/5.jpg",
-          "image_og_size": "640x480"
+          "image_alt_id": "popular_image_2_alt",
+          "image_relative_path": "img/d2.jpg",
+          "image_og_size": "360x211"
         },
         {
-          "image_alt_id": "gallery_item_6_image_alt",
-          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/assets/img/gallery/6.jpg",
-          "image_og_size": "640x480"
+          "image_alt_id": "popular_image_3_alt",
+          "image_relative_path": "img/d3.jpg",
+          "image_og_size": "360x211"
         },
         {
-          "image_alt_id": "gallery_item_7_image_alt",
-          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/assets/img/gallery/7.jpg",
-          "image_og_size": "640x480"
+          "image_alt_id": "instafeed_gallery_image_1_alt",
+          "image_relative_path": "img/i1.jpg",
+          "image_og_size": "58x58"
         },
         {
-          "image_alt_id": "gallery_item_8_image_alt",
-          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/assets/img/gallery/8.jpg",
-          "image_og_size": "640x480"
+          "image_alt_id": "instafeed_gallery_image_2_alt",
+          "image_relative_path": "img/i2.jpg",
+          "image_og_size": "58x58"
         },
         {
-          "image_alt_id": "gallery_item_9_image_alt",
-          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/assets/img/gallery/9.jpg",
-          "image_og_size": "640x480"
+          "image_alt_id": "instafeed_gallery_image_3_alt",
+          "image_relative_path": "img/i3.jpg",
+          "image_og_size": "58x58"
         },
         {
-          "image_alt_id": "gallery_item_1_image_alt",
-          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/assets/img/gallery/1.jpg",
-          "image_og_size": "640x480"
+          "image_alt_id": "instafeed_gallery_image_4_alt",
+          "image_relative_path": "img/i4.jpg",
+          "image_og_size": "58x58"
         },
         {
-          "image_alt_id": "hero_slider_image_2_alt",
-          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/assets/img/slider/2.jpeg",
-          "image_og_size": "2200x850"
+          "image_alt_id": "instafeed_gallery_image_5_alt",
+          "image_relative_path": "img/i5.jpg",
+          "image_og_size": "58x58"
         },
         {
-          "image_alt_id": "hero_slider_image_3_alt",
-          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/assets/img/slider/3.jpeg",
-          "image_og_size": "2200x850"
+          "image_alt_id": "instafeed_gallery_image_6_alt",
+          "image_relative_path": "img/i6.jpg",
+          "image_og_size": "58x58"
         },
         {
-          "image_alt_id": "hero_slider_image_1_alt",
-          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/assets/img/slider/1.jpeg",
-          "image_og_size": "2200x850"
+          "image_alt_id": "instafeed_gallery_image_7_alt",
+          "image_relative_path": "img/i7.jpg",
+          "image_og_size": "58x58"
         },
         {
-          "image_alt_id": "chef_team_member_2_image_alt",
-          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/assets/img/chef/chef-2.jpg",
-          "image_og_size": "265x275"
+          "image_alt_id": "instafeed_gallery_image_8_alt",
+          "image_relative_path": "img/i8.jpg",
+          "image_og_size": "58x58"
         },
         {
-          "image_alt_id": "chef_team_member_3_image_alt",
-          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/assets/img/chef/chef-3.jpg",
-          "image_og_size": "265x275"
+          "image_alt_id": "other_service_1_image_alt",
+          "image_relative_path": "img/o1.jpg",
+          "image_og_size": "263x160"
         },
         {
-          "image_alt_id": "chef_team_member_4_image_alt",
-          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/assets/img/chef/chef-4.jpg",
-          "image_og_size": "265x275"
+          "image_alt_id": "other_service_2_image_alt",
+          "image_relative_path": "img/o2.jpg",
+          "image_og_size": "262x160"
         },
         {
-          "image_alt_id": "chef_team_member_5_image_alt",
-          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/assets/img/chef/chef-5.jpg",
-          "image_og_size": "265x275"
+          "image_alt_id": "other_service_3_image_alt",
+          "image_relative_path": "img/o3.jpg",
+          "image_og_size": "263x160"
         },
         {
-          "image_alt_id": "chef_team_member_1_image_alt",
-          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/assets/img/chef/chef-1.jpg",
-          "image_og_size": "265x275"
+          "image_alt_id": "other_service_4_image_alt",
+          "image_relative_path": "img/o4.jpg",
+          "image_og_size": "262x160"
         },
         {
-          "image_alt_id": "menu_item_4_image_alt",
-          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/assets/img/menu/item-4.jpg",
-          "image_og_size": "110x110"
-        },
-        {
-          "image_alt_id": "menu_item_5_image_alt",
-          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/assets/img/menu/item-5.jpg",
-          "image_og_size": "110x110"
-        },
-        {
-          "image_alt_id": "menu_item_6_image_alt",
-          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/assets/img/menu/item-6.jpg",
-          "image_og_size": "110x110"
-        },
-        {
-          "image_alt_id": "menu_item_7_image_alt",
-          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/assets/img/menu/item-7.jpg",
-          "image_og_size": "110x110"
-        },
-        {
-          "image_alt_id": "menu_item_8_image_alt",
-          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/assets/img/menu/item-8.jpg",
-          "image_og_size": "110x110"
-        },
-        {
-          "image_alt_id": "menu_item_9_image_alt",
-          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/assets/img/menu/item-9.jpg",
-          "image_og_size": "110x110"
-        },
-        {
-          "image_alt_id": "menu_item_10_image_alt",
-          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/assets/img/menu/item-10.jpg",
-          "image_og_size": "110x110"
-        },
-        {
-          "image_alt_id": "menu_item_1_image_alt",
-          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/assets/img/menu/item-1.jpg",
-          "image_og_size": "110x110"
-        },
-        {
-          "image_alt_id": "menu_item_2_image_alt",
-          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/assets/img/menu/item-2.jpg",
-          "image_og_size": "110x110"
-        },
-        {
-          "image_alt_id": "menu_item_3_image_alt",
-          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/assets/img/menu/item-3.jpg",
-          "image_og_size": "110x110"
+          "image_alt_id": "inner_page_top_banner_image_alt",
+          "image_relative_path": "img/top-banner.jpg",
+          "image_og_size": "1920x400"
         }
       ],
       "reference_text": [
@@ -1739,94 +1694,67 @@
         { "footer_copyright_text_part3_placeholder": " by " },
         { "footer_copyright_link_text_placeholder": "Colorlib" },
         {
-          "about_us_section_image_alt": "Illustration or photo representing the company's team or values for the About Us section"
+          "head_meta_og_image_alt": "Panoramic view of a stunning travel destination with mountains and clear blue water, representing Magical Travel experiences."
         },
         {
-          "counter_section_background_image_alt": "Abstract or thematic background image for the statistics counter section"
+          "home_about_area_image_alt": "Beautiful tropical beach scene with a boat, illustrating custom travel package offerings and the 'Did not find your Package?' section."
         },
         {
-          "testimonial_section_background_image_alt": "Subtle background image enhancing the customer testimonials section"
+          "blog_post_thumbnail_image_1_alt": "Thumbnail image for the first travel blog post 'Low Cost Advertising', showing a scenic mountain road."
         },
         {
-          "gallery_item_2_image_alt": "Image 2 from the website's photo gallery, showcasing a scenic view or event"
+          "blog_post_thumbnail_image_2_alt": "Thumbnail image for the second travel blog post 'Creative Outdoor Ads', depicting a vibrant cityscape at dusk."
         },
         {
-          "gallery_item_3_image_alt": "Image 3 from the website's photo gallery, showcasing a product or location"
+          "blog_post_thumbnail_image_3_alt": "Thumbnail image for the third travel blog post 'It's Classified How To Utilize Free', featuring a serene beach with a hammock."
         },
         {
-          "gallery_item_4_image_alt": "Image 4 from the website's photo gallery, depicting a moment or artwork"
+          "popular_image_1_alt": "Image of 'Mountain River' in Paraguay, a popular travel destination offered for $150."
         },
         {
-          "gallery_item_5_image_alt": "Image 5 from the website's photo gallery, highlighting a specific feature"
+          "popular_image_2_alt": "Image of 'Dream City' Paris, showcasing the Eiffel Tower, a popular travel destination offered for $250."
         },
         {
-          "gallery_item_6_image_alt": "Image 6 from the website's photo gallery, capturing an interesting perspective"
+          "popular_image_3_alt": "Image of 'Cloud Mountain' in Sri Lanka, a popular travel destination offered for $350."
         },
         {
-          "gallery_item_7_image_alt": "Image 7 from the website's photo gallery, illustrating a concept or detail"
+          "instafeed_gallery_image_1_alt": "First image from the Instagram feed gallery, showcasing a captivating travel photo."
         },
         {
-          "gallery_item_8_image_alt": "Image 8 from the website's photo gallery, presenting a vibrant scene"
+          "instafeed_gallery_image_2_alt": "Second image from the Instagram feed gallery, featuring an inspiring travel snapshot."
         },
         {
-          "gallery_item_9_image_alt": "Image 9 from the website's photo gallery, showing an example of work or experience"
+          "instafeed_gallery_image_3_alt": "Third image from the Instagram feed gallery, displaying a scenic travel picture."
         },
         {
-          "gallery_item_1_image_alt": "Image 1 from the website's photo gallery, introducing a key visual"
+          "instafeed_gallery_image_4_alt": "Fourth image from the Instagram feed gallery, highlighting a unique travel destination."
         },
         {
-          "hero_slider_image_2_alt": "Second captivating image in the hero slider, showcasing a key service or product"
+          "instafeed_gallery_image_5_alt": "Fifth image from the Instagram feed gallery, showing an adventurous travel moment."
         },
         {
-          "hero_slider_image_3_alt": "Third striking image in the hero slider, highlighting a unique selling proposition"
+          "instafeed_gallery_image_6_alt": "Sixth image from the Instagram feed gallery, capturing a picturesque travel experience."
         },
         {
-          "hero_slider_image_1_alt": "Main banner image for the hero slider, welcoming visitors to the website"
+          "instafeed_gallery_image_7_alt": "Seventh image from the Instagram feed gallery, depicting a beautiful travel scene."
         },
         {
-          "chef_team_member_2_image_alt": "Portrait of the second chef or team member at the establishment"
+          "instafeed_gallery_image_8_alt": "Eighth image from the Instagram feed gallery, representing a memorable travel photo."
         },
         {
-          "chef_team_member_3_image_alt": "Portrait of the third chef or culinary expert"
+          "other_service_1_image_alt": "Image representing 'Rent a Car' service, showing a car on a road, part of other travel issues we can help with."
         },
         {
-          "chef_team_member_4_image_alt": "Portrait of another skilled chef on the team"
+          "other_service_2_image_alt": "Image for 'Cruise Booking' service, featuring a large cruise ship, part of other travel solutions."
         },
         {
-          "chef_team_member_5_image_alt": "Portrait of a senior or specialized chef"
+          "other_service_3_image_alt": "Image illustrating 'To Do List' or travel planning assistance, part of additional travel services."
         },
         {
-          "chef_team_member_1_image_alt": "Portrait of the head chef or a key culinary team member"
+          "other_service_4_image_alt": "Image for 'Food Features' service, showcasing local cuisine, part of enhanced travel experiences."
         },
         {
-          "menu_item_4_image_alt": "Delicious-looking image of menu item 4, possibly a main course or specialty"
-        },
-        {
-          "menu_item_5_image_alt": "Appetizing photo of menu item 5, showcasing a popular dish"
-        },
-        {
-          "menu_item_6_image_alt": "Close-up shot of menu item 6, highlighting its fresh ingredients"
-        },
-        {
-          "menu_item_7_image_alt": "Image of menu item 7, perhaps a dessert or a side dish"
-        },
-        {
-          "menu_item_8_image_alt": "Vibrant photo of menu item 8, showing a colorful and tasty option"
-        },
-        {
-          "menu_item_9_image_alt": "Well-presented image of menu item 9, a customer favorite"
-        },
-        {
-          "menu_item_10_image_alt": "Photo of menu item 10, a signature dish or special offer"
-        },
-        {
-          "menu_item_1_image_alt": "Tempting image of the first menu item, possibly an appetizer or starter"
-        },
-        {
-          "menu_item_2_image_alt": "Mouth-watering photo of menu item 2, another popular choice"
-        },
-        {
-          "menu_item_3_image_alt": "Attractive image of menu item 3, showcasing a flavorful dish"
+          "inner_page_top_banner_image_alt": "Wide, scenic travel-themed banner image used for the top of inner pages of the website."
         }
       ],
       "text_type_label_list": [
@@ -2007,36 +1935,27 @@
         "footer_copyright_text_part2_placeholder",
         "footer_copyright_text_part3_placeholder",
         "footer_copyright_link_text_placeholder",
-        "about_us_section_image_alt",
-        "counter_section_background_image_alt",
-        "testimonial_section_background_image_alt",
-        "gallery_item_2_image_alt",
-        "gallery_item_3_image_alt",
-        "gallery_item_4_image_alt",
-        "gallery_item_5_image_alt",
-        "gallery_item_6_image_alt",
-        "gallery_item_7_image_alt",
-        "gallery_item_8_image_alt",
-        "gallery_item_9_image_alt",
-        "gallery_item_1_image_alt",
-        "hero_slider_image_2_alt",
-        "hero_slider_image_3_alt",
-        "hero_slider_image_1_alt",
-        "chef_team_member_2_image_alt",
-        "chef_team_member_3_image_alt",
-        "chef_team_member_4_image_alt",
-        "chef_team_member_5_image_alt",
-        "chef_team_member_1_image_alt",
-        "menu_item_4_image_alt",
-        "menu_item_5_image_alt",
-        "menu_item_6_image_alt",
-        "menu_item_7_image_alt",
-        "menu_item_8_image_alt",
-        "menu_item_9_image_alt",
-        "menu_item_10_image_alt",
-        "menu_item_1_image_alt",
-        "menu_item_2_image_alt",
-        "menu_item_3_image_alt"
+        "head_meta_og_image_alt",
+        "home_about_area_image_alt",
+        "blog_post_thumbnail_image_1_alt",
+        "blog_post_thumbnail_image_2_alt",
+        "blog_post_thumbnail_image_3_alt",
+        "popular_image_1_alt",
+        "popular_image_2_alt",
+        "popular_image_3_alt",
+        "instafeed_gallery_image_1_alt",
+        "instafeed_gallery_image_2_alt",
+        "instafeed_gallery_image_3_alt",
+        "instafeed_gallery_image_4_alt",
+        "instafeed_gallery_image_5_alt",
+        "instafeed_gallery_image_6_alt",
+        "instafeed_gallery_image_7_alt",
+        "instafeed_gallery_image_8_alt",
+        "other_service_1_image_alt",
+        "other_service_2_image_alt",
+        "other_service_3_image_alt",
+        "other_service_4_image_alt",
+        "inner_page_top_banner_image_alt"
       ]
     }
   }
