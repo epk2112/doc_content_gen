@@ -1347,107 +1347,107 @@
       "images_to_replace": [
         {
           "image_alt_id": "head_meta_og_image_alt",
-          "image_relative_path": "img/hero-bg.jpg",
+          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/img/hero-bg.jpg",
           "image_og_size": "1920x800"
         },
         {
           "image_alt_id": "home_about_area_image_alt",
-          "image_relative_path": "img/about-img.jpg",
+          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/img/about-img.jpg",
           "image_og_size": "945x600"
         },
         {
           "image_alt_id": "blog_post_thumbnail_image_1_alt",
-          "image_relative_path": "img/b1.jpg",
+          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/img/b1.jpg",
           "image_og_size": "360x260"
         },
         {
           "image_alt_id": "blog_post_thumbnail_image_2_alt",
-          "image_relative_path": "img/b2.jpg",
+          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/img/b2.jpg",
           "image_og_size": "360x260"
         },
         {
           "image_alt_id": "blog_post_thumbnail_image_3_alt",
-          "image_relative_path": "img/b3.jpg",
+          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/img/b3.jpg",
           "image_og_size": "360x260"
         },
         {
           "image_alt_id": "popular_image_1_alt",
-          "image_relative_path": "img/d1.jpg",
+          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/img/d1.jpg",
           "image_og_size": "360x211"
         },
         {
           "image_alt_id": "popular_image_2_alt",
-          "image_relative_path": "img/d2.jpg",
+          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/img/d2.jpg",
           "image_og_size": "360x211"
         },
         {
           "image_alt_id": "popular_image_3_alt",
-          "image_relative_path": "img/d3.jpg",
+          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/img/d3.jpg",
           "image_og_size": "360x211"
         },
         {
           "image_alt_id": "instafeed_gallery_image_1_alt",
-          "image_relative_path": "img/i1.jpg",
+          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/img/i1.jpg",
           "image_og_size": "58x58"
         },
         {
           "image_alt_id": "instafeed_gallery_image_2_alt",
-          "image_relative_path": "img/i2.jpg",
+          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/img/i2.jpg",
           "image_og_size": "58x58"
         },
         {
           "image_alt_id": "instafeed_gallery_image_3_alt",
-          "image_relative_path": "img/i3.jpg",
+          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/img/i3.jpg",
           "image_og_size": "58x58"
         },
         {
           "image_alt_id": "instafeed_gallery_image_4_alt",
-          "image_relative_path": "img/i4.jpg",
+          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/img/i4.jpg",
           "image_og_size": "58x58"
         },
         {
           "image_alt_id": "instafeed_gallery_image_5_alt",
-          "image_relative_path": "img/i5.jpg",
+          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/img/i5.jpg",
           "image_og_size": "58x58"
         },
         {
           "image_alt_id": "instafeed_gallery_image_6_alt",
-          "image_relative_path": "img/i6.jpg",
+          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/img/i6.jpg",
           "image_og_size": "58x58"
         },
         {
           "image_alt_id": "instafeed_gallery_image_7_alt",
-          "image_relative_path": "img/i7.jpg",
+          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/img/i7.jpg",
           "image_og_size": "58x58"
         },
         {
           "image_alt_id": "instafeed_gallery_image_8_alt",
-          "image_relative_path": "img/i8.jpg",
+          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/img/i8.jpg",
           "image_og_size": "58x58"
         },
         {
           "image_alt_id": "other_service_1_image_alt",
-          "image_relative_path": "img/o1.jpg",
+          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/img/o1.jpg",
           "image_og_size": "263x160"
         },
         {
           "image_alt_id": "other_service_2_image_alt",
-          "image_relative_path": "img/o2.jpg",
+          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/img/o2.jpg",
           "image_og_size": "262x160"
         },
         {
           "image_alt_id": "other_service_3_image_alt",
-          "image_relative_path": "img/o3.jpg",
+          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/img/o3.jpg",
           "image_og_size": "263x160"
         },
         {
           "image_alt_id": "other_service_4_image_alt",
-          "image_relative_path": "img/o4.jpg",
+          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/img/o4.jpg",
           "image_og_size": "262x160"
         },
         {
           "image_alt_id": "inner_page_top_banner_image_alt",
-          "image_relative_path": "img/top-banner.jpg",
+          "image_relative_path": "websites_sources_dirs/travelista_master_v1_template/img/top-banner.jpg",
           "image_og_size": "1920x400"
         }
       ],
@@ -1697,64 +1697,64 @@
           "head_meta_og_image_alt": "Panoramic view of a stunning travel destination with mountains and clear blue water, representing Magical Travel experiences."
         },
         {
-          "home_about_area_image_alt": "Beautiful tropical beach scene with a boat, illustrating custom travel package offerings and the 'Did not find your Package?' section."
+          "home_about_area_image_alt": "Beautiful tropical beach scene with a boat on the water, symbolizing travel adventures."
         },
         {
-          "blog_post_thumbnail_image_1_alt": "Thumbnail image for the first travel blog post 'Low Cost Advertising', showing a scenic mountain road."
+          "blog_post_thumbnail_image_1_alt": "Image showing a scenic mountain road with a car on the road, representing mountain travel."
         },
         {
-          "blog_post_thumbnail_image_2_alt": "Thumbnail image for the second travel blog post 'Creative Outdoor Ads', depicting a vibrant cityscape at dusk."
+          "blog_post_thumbnail_image_2_alt": "Image of a vibrant cityscape at dusk with lights and buildings, representing urban travel."
         },
         {
-          "blog_post_thumbnail_image_3_alt": "Thumbnail image for the third travel blog post 'It's Classified How To Utilize Free', featuring a serene beach with a hammock."
+          "blog_post_thumbnail_image_3_alt": "Image of a serene beach with a hammock between palm trees, perfect for relaxation."
         },
         {
-          "popular_image_1_alt": "Image of 'Mountain River' in Paraguay, a popular travel destination offered for $150."
+          "popular_image_1_alt": "Image of Mountain River in Paraguay, a popular travel destination, known for its breathtaking landscapes."
         },
         {
-          "popular_image_2_alt": "Image of 'Dream City' Paris, showcasing the Eiffel Tower, a popular travel destination offered for $250."
+          "popular_image_2_alt": "Image of Dream City Paris, showcasing the Eiffel Tower, a popular travel destination, known for its romantic ambiance."
         },
         {
-          "popular_image_3_alt": "Image of 'Cloud Mountain' in Sri Lanka, a popular travel destination offered for $350."
+          "popular_image_3_alt": "Image of 'Cloud Mountain' in Sri Lanka, a popular travel destination, known for its lush greenery and scenic views."
         },
         {
-          "instafeed_gallery_image_1_alt": "First image from the Instagram feed gallery, showcasing a captivating travel photo."
+          "instafeed_gallery_image_1_alt": "Image showcasing a captivating travel photo of a beautiful landscape."
         },
         {
-          "instafeed_gallery_image_2_alt": "Second image from the Instagram feed gallery, featuring an inspiring travel snapshot."
+          "instafeed_gallery_image_2_alt": "Image featuring an inspiring travel snapshot of a famous landmark."
         },
         {
-          "instafeed_gallery_image_3_alt": "Third image from the Instagram feed gallery, displaying a scenic travel picture."
+          "instafeed_gallery_image_3_alt": "Image displaying a scenic travel picture of a beach with palm trees."
         },
         {
-          "instafeed_gallery_image_4_alt": "Fourth image from the Instagram feed gallery, highlighting a unique travel destination."
+          "instafeed_gallery_image_4_alt": "Image highlighting a unique travel destination with mountains."
         },
         {
-          "instafeed_gallery_image_5_alt": "Fifth image from the Instagram feed gallery, showing an adventurous travel moment."
+          "instafeed_gallery_image_5_alt": " Image showing an adventurous travel moment with a group of friends."
         },
         {
-          "instafeed_gallery_image_6_alt": "Sixth image from the Instagram feed gallery, capturing a picturesque travel experience."
+          "instafeed_gallery_image_6_alt": "Image capturing a picturesque travel experience with a sunset."
         },
         {
-          "instafeed_gallery_image_7_alt": "Seventh image from the Instagram feed gallery, depicting a beautiful travel scene."
+          "instafeed_gallery_image_7_alt": "Image depicting a beautiful travel scene with a city skyline."
         },
         {
-          "instafeed_gallery_image_8_alt": "Eighth image from the Instagram feed gallery, representing a memorable travel photo."
+          "instafeed_gallery_image_8_alt": "Image representing a memorable travel photo of a famous landmark."
         },
         {
-          "other_service_1_image_alt": "Image representing 'Rent a Car' service, showing a car on a road, part of other travel issues we can help with."
+          "other_service_1_image_alt": "Image showing a car on a road, part of other travel issues we can help with."
         },
         {
-          "other_service_2_image_alt": "Image for 'Cruise Booking' service, featuring a large cruise ship, part of other travel solutions."
+          "other_service_2_image_alt": "Image featuring a large cruise ship, part of other travel solutions."
         },
         {
-          "other_service_3_image_alt": "Image illustrating 'To Do List' or travel planning assistance, part of additional travel services."
+          "other_service_3_image_alt": "Image showing a to-do list with travel items to be completed."
         },
         {
-          "other_service_4_image_alt": "Image for 'Food Features' service, showcasing local cuisine, part of enhanced travel experiences."
+          "other_service_4_image_alt": "Image of a bustling market showcasing local cuisine and food features."
         },
         {
-          "inner_page_top_banner_image_alt": "Wide, scenic travel-themed banner image used for the top of inner pages of the website."
+          "inner_page_top_banner_image_alt": "Image showcasing a scenic travel photo of a beautiful landscape with mountains and a clear blue sky."
         }
       ],
       "text_type_label_list": [
