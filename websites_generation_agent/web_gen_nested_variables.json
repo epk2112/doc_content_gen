@@ -1957,6 +1957,382 @@
         "other_service_4_image_alt",
         "inner_page_top_banner_image_alt"
       ]
+    },
+    "photography_master_v1": {
+      "html_file_source_path": "websites_sources_dirs/photography_master_v1_template/index.html",
+      "template_name": "photography_master_v1",
+      "topic_subject": "Arctic Fox Photography Adventures",
+      "images_to_replace": [
+        {
+          "image_alt_id": "carousel_slide_1_image_alt",
+          "image_relative_path": "websites_sources_dirs/photography_master_v1_template/img/slider1.jpg",
+          "image_og_size": "1920x900"
+        },
+        {
+          "image_alt_id": "carousel_slide_2_image_alt",
+          "image_relative_path": "websites_sources_dirs/photography_master_v1_template/img/slider2.jpg",
+          "image_og_size": "1920x900"
+        },
+        {
+          "image_alt_id": "carousel_slide_3_image_alt",
+          "image_relative_path": "websites_sources_dirs/photography_master_v1_template/img/slider3.jpg",
+          "image_og_size": "1920x900"
+        },
+        {
+          "image_alt_id": "about_section_image_alt",
+          "image_relative_path": "websites_sources_dirs/photography_master_v1_template/img/about-img.jpg",
+          "image_og_size": "458x600"
+        },
+        {
+          "image_alt_id": "gallery_image_1_alt",
+          "image_relative_path": "websites_sources_dirs/photography_master_v1_template/img/p1.jpg",
+          "image_og_size": "600x300"
+        },
+        {
+          "image_alt_id": "gallery_image_2_alt",
+          "image_relative_path": "websites_sources_dirs/photography_master_v1_template/img/p2.jpg",
+          "image_og_size": "600x300"
+        },
+        {
+          "image_alt_id": "gallery_image_3_alt",
+          "image_relative_path": "websites_sources_dirs/photography_master_v1_template/img/p3.jpg",
+          "image_og_size": "200x300"
+        },
+        {
+          "image_alt_id": "gallery_image_4_alt",
+          "image_relative_path": "websites_sources_dirs/photography_master_v1_template/img/p4.jpg",
+          "image_og_size": "400x300"
+        },
+        {
+          "image_alt_id": "gallery_image_5_alt",
+          "image_relative_path": "websites_sources_dirs/photography_master_v1_template/img/p5.jpg",
+          "image_og_size": "200x300"
+        },
+        {
+          "image_alt_id": "gallery_image_6_alt",
+          "image_relative_path": "websites_sources_dirs/photography_master_v1_template/img/p6.jpg",
+          "image_og_size": "600x300"
+        },
+        {
+          "image_alt_id": "gallery_image_7_alt",
+          "image_relative_path": "websites_sources_dirs/photography_master_v1_template/img/p7.jpg",
+          "image_og_size": "400x300"
+        },
+        {
+          "image_alt_id": "gallery_image_8_alt",
+          "image_relative_path": "websites_sources_dirs/photography_master_v1_template/img/p8.jpg",
+          "image_og_size": "600x300"
+        },
+        {
+          "image_alt_id": "gallery_image_9_alt",
+          "image_relative_path": "websites_sources_dirs/photography_master_v1_template/img/p9.jpg",
+          "image_og_size": "400x300"
+        },
+        {
+          "image_alt_id": "gallery_image_10_alt",
+          "image_relative_path": "websites_sources_dirs/photography_master_v1_template/img/p10.jpg",
+          "image_og_size": "600x300"
+        },
+        {
+          "image_alt_id": "gallery_image_11_alt",
+          "image_relative_path": "websites_sources_dirs/photography_master_v1_template/img/p11.jpg",
+          "image_og_size": "600x300"
+        },
+        {
+          "image_alt_id": "gallery_image_12_alt",
+          "image_relative_path": "websites_sources_dirs/photography_master_v1_template/img/p12.jpg",
+          "image_og_size": "200x300"
+        },
+        {
+          "image_alt_id": "gallery_image_13_alt",
+          "image_relative_path": "websites_sources_dirs/photography_master_v1_template/img/p13.jpg",
+          "image_og_size": "600x300"
+        },
+        {
+          "image_alt_id": "gallery_image_14_alt",
+          "image_relative_path": "websites_sources_dirs/photography_master_v1_template/img/p14.jpg",
+          "image_og_size": "200x300"
+        },
+        {
+          "image_alt_id": "gallery_image_15_alt",
+          "image_relative_path": "websites_sources_dirs/photography_master_v1_template/img/p15.jpg",
+          "image_og_size": "600x300"
+        },
+        {
+          "image_alt_id": "gallery_image_16_alt",
+          "image_relative_path": "websites_sources_dirs/photography_master_v1_template/img/p16.jpg",
+          "image_og_size": "400x300"
+        },
+        {
+          "image_alt_id": "blog_post_1_image_alt",
+          "image_relative_path": "websites_sources_dirs/photography_master_v1_template/img/b1.jpg",
+          "image_og_size": "360x220"
+        },
+        {
+          "image_alt_id": "blog_post_2_image_alt",
+          "image_relative_path": "websites_sources_dirs/photography_master_v1_template/img/b2.jpg",
+          "image_og_size": "360x220"
+        },
+        {
+          "image_alt_id": "blog_post_3_image_alt",
+          "image_relative_path": "websites_sources_dirs/photography_master_v1_template/img/b3.jpg",
+          "image_og_size": "360x220"
+        },
+        {
+          "image_alt_id": "contact_section_image_alt",
+          "image_relative_path": "websites_sources_dirs/photography_master_v1_template/img/contact-img.jpg",
+          "image_og_size": "750x796"
+        },
+        {
+          "image_alt_id": "head_meta_og_image_alt",
+          "image_relative_path": "websites_sources_dirs/photography_master_v1_template/img/slider4.jpg",
+          "image_og_size": "1920x900"
+        }
+      ],
+      "reference_text": [
+        { "site_title_placeholder": "Arctic Fox Photography" },
+        { "navbar_item_1_placeholder": "Home" },
+        { "navbar_item_2_placeholder": "Our Story" },
+        { "navbar_item_3_placeholder": "Portfolio" },
+        { "navbar_item_4_placeholder": "Journal" },
+        { "navbar_item_5_placeholder": "Get in Touch" },
+        { "navbar_item_6_placeholder": "Print Shop" },
+        { "navbar_item_7_placeholder": "Workshops" },
+        { "carousel_slide_1_title_placeholder": "Arctic Wildlife Adventures" },
+        {
+          "carousel_slide_1_description_placeholder": "Embark on an unforgettable journey into the wild, capturing breathtaking moments of nature's untamed beauty. Experience the thrill with Arctic Fox Photography."
+        },
+        { "carousel_slide_2_title_placeholder": "Capturing the Untamed" },
+        {
+          "carousel_slide_2_description_placeholder": "Discover the hidden wonders of the animal kingdom through our lens. Each photograph tells a unique story of survival and splendor in the Arctic wilderness."
+        },
+        {
+          "carousel_slide_3_title_placeholder": "Frozen Moments, Eternal Memories"
+        },
+        {
+          "carousel_slide_3_description_placeholder": "From majestic landscapes to intimate wildlife portraits, we bring the world's most stunning visuals to you. Join our photographic expeditions to the North."
+        },
+        { "carousel_control_prev_text_placeholder": "Previous" },
+        { "carousel_control_next_text_placeholder": "Next" },
+        { "about_section_title_line1_placeholder": "Our Passion for" },
+        { "about_section_title_line2_placeholder": "Arctic Photography" },
+        {
+          "about_section_description_placeholder": "Arctic Fox Photography Adventures is born from a profound love for the wild and a dedication to capturing its fleeting, precious moments. Our mission is to share the awe-inspiring beauty of the Arctic, from its vast icy landscapes to the intimate lives of its unique inhabitants, all through stunning and ethically captured photography."
+        },
+        { "about_section_button_text_placeholder": "Discover Our Expeditions" },
+        { "gallery_section_title_placeholder": "Our Arctic Portfolio" },
+        {
+          "gallery_section_description_placeholder": "Explore a curated collection of our finest work. Each image in our gallery is a testament to the raw beauty of the natural world and the patience required to capture its essence. Witness the Arctic through our eyes."
+        },
+        {
+          "cta_section_title_placeholder": "Interested in a Custom Expedition?"
+        },
+        { "cta_section_button_text_placeholder": "Enquire Now" },
+        { "blog_section_title_placeholder": "Tales from the Tundra" },
+        {
+          "blog_section_description_placeholder": "Dive into our stories from the field, photography tips, and insights into the world of Arctic wildlife. Our blog is a space to share our adventures, knowledge, and the passion that drives Arctic Fox Photography Adventures."
+        },
+        {
+          "blog_post_1_title_placeholder": "Gear Up: Photographing in the Extreme Cold"
+        },
+        {
+          "blog_post_1_excerpt_placeholder": "Discover the best gear and techniques for capturing stunning images in freezing conditions. This post covers everything from camera settings to keeping your equipment safe in the Arctic chill. Essential reading for aspiring winter wildlife photographers."
+        },
+        { "blog_post_1_author_placeholder": "Alex Frost" },
+        { "blog_post_1_date_placeholder": "18th Jan" },
+        { "blog_post_1_likes_placeholder": "25" },
+        { "blog_post_1_comments_placeholder": "08" },
+        {
+          "blog_post_2_title_placeholder": "On the Trail of the Elusive Arctic Fox"
+        },
+        {
+          "blog_post_2_excerpt_placeholder": "Join us on a virtual journey as we recount our recent expedition to track the elusive Arctic fox. Learn about their behavior, habitat, and the challenges and rewards of photographing these incredible creatures in their natural environment."
+        },
+        { "blog_post_2_author_placeholder": "Alex Frost" },
+        { "blog_post_2_date_placeholder": "2nd Feb" },
+        { "blog_post_2_likes_placeholder": "32" },
+        { "blog_post_2_comments_placeholder": "11" },
+        {
+          "blog_post_3_title_placeholder": "The Ethics of Arctic Wildlife Photography"
+        },
+        {
+          "blog_post_3_excerpt_placeholder": "Ethical wildlife photography is at the heart of what we do. In this article, we discuss the importance of respecting animal habitats and how to capture beautiful images without disturbing the delicate Arctic ecosystem."
+        },
+        { "blog_post_3_author_placeholder": "Dr. Lena Hansen" },
+        { "blog_post_3_date_placeholder": "15th Mar" },
+        { "blog_post_3_likes_placeholder": "45" },
+        { "blog_post_3_comments_placeholder": "17" },
+        { "contact_section_title_placeholder": "Connect With Us" },
+        {
+          "contact_section_description_placeholder": "Have a question about our prints, workshops, or expeditions? Or perhaps you'd like to commission a unique piece? We'd love to hear from you. Reach out, and let's discuss how we can bring the wild to you."
+        },
+        { "form_input_name_placeholder": "Your Full Name" },
+        { "form_input_email_placeholder": "Your Email Address" },
+        { "form_input_message_placeholder": "Your Message or Inquiry" },
+        { "form_button_confirm_booking_placeholder": "Send Inquiry" },
+        { "footer_copyright_text_part1_placeholder": "Copyright " },
+        {
+          "footer_copyright_text_part2_placeholder": " All rights reserved | Arctic Fox Photography Adventures. Site by "
+        },
+        { "footer_copyright_text_part3_placeholder": " with <3 by " },
+        { "footer_copyright_link_text_placeholder": "BongoGraphics" },
+        {
+          "carousel_slide_1_image_alt": "A stunning Arctic fox photograph, perfect for a photography portfolio, capturing the animal in its snowy natural habitat during golden hour."
+        },
+        {
+          "carousel_slide_2_image_alt": "Dynamic shot of an Arctic fox leaping through the snow, showcasing the photographer's skill in capturing movement and emotion in nature."
+        },
+        {
+          "carousel_slide_3_image_alt": "Close-up portrait of an Arctic fox, highlighting intricate fur details and piercing eyes, ideal for a photography showcase."
+        },
+        {
+          "about_section_image_alt": "Professional portrait of the lead photographer, Alex Frost, equipped for an Arctic expedition, conveying passion and expertise."
+        },
+        {
+          "gallery_image_1_alt": "Breathtaking photo of an Arctic fox against a backdrop of the Aurora Borealis."
+        },
+        {
+          "gallery_image_2_alt": "Artistic black and white photograph from the gallery, capturing a serene Arctic landscape."
+        },
+        {
+          "gallery_image_3_alt": "Vibrant close-up of Arctic flora in summer bloom from the gallery, showcasing macro photography skills."
+        },
+        {
+          "gallery_image_4_alt": "Action shot of a polar bear on ice floes from the gallery, freezing a dramatic moment in time."
+        },
+        {
+          "gallery_image_5_alt": "Ethereal portrait of a snowy owl in flight from the gallery, with soft lighting and a dreamy atmosphere."
+        },
+        {
+          "gallery_image_6_alt": "Abstract photograph from the gallery, playing with ice formations, light, and shadow."
+        },
+        {
+          "gallery_image_7_alt": "A family of Arctic foxes at their den from the gallery, featuring pups playing."
+        },
+        {
+          "gallery_image_8_alt": "Travel photograph from the gallery, capturing the essence of a remote Inuit village."
+        },
+        {
+          "gallery_image_9_alt": "Night sky photograph from the gallery, showcasing stars over a snow-covered tundra."
+        },
+        {
+          "gallery_image_10_alt": "Architectural photograph of an ice hotel from the gallery, highlighting unique ice designs."
+        },
+        {
+          "gallery_image_11_alt": "A walrus basking on an ice floe, captured with a telephoto lens."
+        },
+        {
+          "gallery_image_12_alt": "Candid shot of a reindeer herd migrating across the Arctic landscape."
+        },
+        {
+          "gallery_image_13_alt": "Underwater photograph from the gallery, revealing a seal beneath the Arctic ice."
+        },
+        {
+          "gallery_image_14_alt": "Minimalist photograph from the gallery, focusing on a lone Arctic hare in a vast snowy expanse."
+        },
+        {
+          "gallery_image_15_alt": "Dramatic landscape photo from the gallery, with stormy Arctic skies and rugged icy terrain."
+        },
+        {
+          "gallery_image_16_alt": "Joyful portrait of researchers in the Arctic, capturing a collaborative moment."
+        },
+        {
+          "blog_post_1_image_alt": "Featured image for a blog post about Arctic photography gear, showing cameras and lenses in a snowy setting."
+        },
+        {
+          "blog_post_2_image_alt": "Image for a blog post about tracking Arctic foxes, possibly showing footprints in the snow or a distant fox."
+        },
+        {
+          "blog_post_3_image_alt": "Vibrant image accompanying a blog post on ethical wildlife photography, perhaps a respectful distance shot of an Arctic animal."
+        },
+        {
+          "contact_section_image_alt": "Artistic shot of a camera lens covered in frost, setting a creative and adventurous tone for the contact section."
+        },
+        {
+          "head_meta_og_image_alt": "Captivating hero image for Arctic Fox Photography Adventures, showcasing a signature Arctic fox or stunning icy landscape."
+        }
+      ],
+      "text_type_label_list": [
+        "site_title_placeholder",
+        "navbar_item_1_placeholder",
+        "navbar_item_2_placeholder",
+        "navbar_item_3_placeholder",
+        "navbar_item_4_placeholder",
+        "navbar_item_5_placeholder",
+        "navbar_item_6_placeholder",
+        "navbar_item_7_placeholder",
+        "carousel_slide_1_title_placeholder",
+        "carousel_slide_1_description_placeholder",
+        "carousel_slide_2_title_placeholder",
+        "carousel_slide_2_description_placeholder",
+        "carousel_slide_3_title_placeholder",
+        "carousel_slide_3_description_placeholder",
+        "carousel_control_prev_text_placeholder",
+        "carousel_control_next_text_placeholder",
+        "about_section_title_line1_placeholder",
+        "about_section_title_line2_placeholder",
+        "about_section_description_placeholder",
+        "about_section_button_text_placeholder",
+        "gallery_section_title_placeholder",
+        "gallery_section_description_placeholder",
+        "cta_section_title_placeholder",
+        "cta_section_button_text_placeholder",
+        "blog_section_title_placeholder",
+        "blog_section_description_placeholder",
+        "blog_post_1_title_placeholder",
+        "blog_post_1_excerpt_placeholder",
+        "blog_post_1_author_placeholder",
+        "blog_post_1_date_placeholder",
+        "blog_post_1_likes_placeholder",
+        "blog_post_1_comments_placeholder",
+        "blog_post_2_title_placeholder",
+        "blog_post_2_excerpt_placeholder",
+        "blog_post_2_author_placeholder",
+        "blog_post_2_date_placeholder",
+        "blog_post_2_likes_placeholder",
+        "blog_post_2_comments_placeholder",
+        "blog_post_3_title_placeholder",
+        "blog_post_3_excerpt_placeholder",
+        "blog_post_3_author_placeholder",
+        "blog_post_3_date_placeholder",
+        "blog_post_3_likes_placeholder",
+        "blog_post_3_comments_placeholder",
+        "contact_section_title_placeholder",
+        "contact_section_description_placeholder",
+        "form_input_name_placeholder",
+        "form_input_email_placeholder",
+        "form_input_message_placeholder",
+        "form_button_confirm_booking_placeholder",
+        "footer_copyright_text_part1_placeholder",
+        "footer_copyright_text_part2_placeholder",
+        "footer_copyright_text_part3_placeholder",
+        "footer_copyright_link_text_placeholder",
+        "carousel_slide_1_image_alt",
+        "carousel_slide_2_image_alt",
+        "carousel_slide_3_image_alt",
+        "about_section_image_alt",
+        "gallery_image_1_alt",
+        "gallery_image_2_alt",
+        "gallery_image_3_alt",
+        "gallery_image_4_alt",
+        "gallery_image_5_alt",
+        "gallery_image_6_alt",
+        "gallery_image_7_alt",
+        "gallery_image_8_alt",
+        "gallery_image_9_alt",
+        "gallery_image_10_alt",
+        "gallery_image_11_alt",
+        "gallery_image_12_alt",
+        "gallery_image_13_alt",
+        "gallery_image_14_alt",
+        "gallery_image_15_alt",
+        "gallery_image_16_alt",
+        "blog_post_1_image_alt",
+        "blog_post_2_image_alt",
+        "blog_post_3_image_alt",
+        "contact_section_image_alt",
+        "head_meta_og_image_alt"
+      ]
     }
   }
 }
